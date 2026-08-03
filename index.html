@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LEPTA — Early-Goal Picks</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+  /* Στυλ κληρονομημένο από το lowscore dashboard (dark slate + sky accent) */
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0f172a; color: #e2e8f0; min-height: 100vh;
+  }
+  .header {
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+    padding: 20px 40px; border-bottom: 2px solid #334155;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 12px;
+  }
+  .header h1 { font-size: 28px; color: #38bdf8; }
+  .header p { color: #94a3b8; margin-top: 5px; font-size: 14px; max-width: 760px; }
+  .refresh-btn {
+    background: #1e293b; color: #38bdf8; border: 1px solid #334155;
+    border-radius: 8px; padding: 10px 16px; font-size: 14px; cursor: pointer;
+    font-family: inherit;
+  }
+  .refresh-btn:hover { background: #334155; }
+  .refresh-btn:focus-visible { outline: 2px solid #38bdf8; outline-offset: 2px; }
+  .container { padding: 30px 40px; max-width: 1400px; margin: 0 auto; }
+  .stats-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px; margin-bottom: 30px;
+  }
+  .stat-card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+  .stat-card.primary { border-color: #38bdf8; }
+  .stat-card h3 {
+    font-size: 13px; color: #94a3b8; text-transform: uppercase;
+    letter-spacing: 1px; margin-bottom: 10px;
+  }
+  .stat-card .value { font-size: 32px; font-weight: 700; }
+  .stat-card .value.neutral { color: #38bdf8; }
+  .stat-card .value.positive { color: #4ade80; }
+  .stat-card .sub { font-size: 12px; color: #64748b; margin-top: 6px; }
+
+  .section-title { font-size: 18px; color: #e2e8f0; margin: 0 0 16px; }
+
+  /* Κουπόνια */
+  .combos-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px; margin-bottom: 34px;
+  }
+  .combo-card { background: #1e293b; border-radius: 12px; border: 1px solid #334155; padding: 18px; }
+  .combo-card.fivefold { border-color: #38bdf8; }
+  .combo-card.hit  { border-color: #4ade80; }
+  .combo-card.lost { border-color: #f87171; opacity: 0.85; }
+  .combo-card .legs li.leg-win  { color: #4ade80; }
+  .combo-card .legs li.leg-loss { color: #f87171; }
+  .combo-card .ctitle {
+    display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 12px;
+  }
+  .combo-card .ctitle .name {
+    font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8;
+  }
+  .combo-card .ctitle .odds { font-size: 26px; font-weight: 700; color: #4ade80; }
+  .combo-card .legs { list-style: none; }
+  .combo-card .legs li {
+    font-size: 14px; padding: 7px 0; border-top: 1px solid #24324a; color: #cbd5e1;
+  }
+  .combo-card .cmeta { font-size: 12px; color: #64748b; margin-top: 10px; }
+
+  .table-container {
+    background: #1e293b; border-radius: 12px; border: 1px solid #334155;
+    overflow-x: auto; margin-bottom: 30px;
+  }
+  .table-header { padding: 20px; border-bottom: 1px solid #334155; }
+  .table-header h2 { font-size: 18px; color: #e2e8f0; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 12px 16px; text-align: left; font-size: 14px; }
+  th { color: #94a3b8; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px; }
+  tbody tr { border-top: 1px solid #24324a; }
+  tbody tr:hover { background: #24324a; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .score-pill {
+    display: inline-block; min-width: 52px; text-align: center;
+    background: #0f2a1e; color: #4ade80; border-radius: 6px; padding: 3px 8px; font-weight: 600;
+  }
+  .wl { display:inline-block; min-width: 24px; text-align:center; border-radius:6px; padding:3px 8px; font-weight:700; }
+  .wl.win  { background:#0f2a1e; color:#4ade80; }
+  .wl.loss { background:#2e1414; color:#f87171; }
+  .wl.pend { background:#1e293b; color:#64748b; }
+  .loading, .error { text-align: center; color: #64748b; padding: 24px; }
+  .error { color: #f87171; }
+  .hint { display: block; color: #94a3b8; font-size: 12px; margin-top: 6px; }
+  .footer { text-align: center; color: #475569; font-size: 12px; margin: 20px 0 40px; }
+  .watch-empty { color: #64748b; padding: 18px; font-size: 14px; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <div>
+      <h1>⚽ LEPTA — Early-Goal Picks</h1>
+      <p><b>Στοίχημα</b>: Under 0.5 γκολ στο <b>0:00–14:59</b>. Το score = πιθανότητα (devig αγοράς) να μη μπει γκολ στο πρώτο 15′. <b>Proof-of-concept</b> · paper only.</p>
+    </div>
+    <button class="refresh-btn" id="refresh-btn" onclick="loadData()">↻ Ανανέωση</button>
+  </div>
+
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-card">
+        <h3>Picks ημέρας</h3>
+        <div class="value neutral" id="stat-picks">-</div>
+        <div class="sub" id="stat-date">&nbsp;</div>
+      </div>
+      <div class="stat-card primary">
+        <h3>Μέσο score</h3>
+        <div class="value neutral" id="stat-avg">-</div>
+        <div class="sub">P(κανένα early goal) x100</div>
+      </div>
+      <div class="stat-card">
+        <h3>Πεντάδα · απόδοση</h3>
+        <div class="value positive" id="stat-five">-</div>
+        <div class="sub">αν πέσουν και τα 5</div>
+      </div>
+      <div class="stat-card">
+        <h3>Hit rate (settled)</h3>
+        <div class="value positive" id="stat-hit">-</div>
+        <div class="sub" id="stat-hit-sub">W/L ημέρας</div>
+      </div>
+    </div>
+
+    <h2 class="section-title">🎟️ Κουπόνια ημέρας</h2>
+    <div class="combos-grid" id="combos-grid">
+      <div class="loading">Φόρτωση…</div>
+    </div>
+
+    <div class="table-container">
+      <div class="table-header"><h2>📊 Picks ημέρας (κατά score)</h2></div>
+      <table>
+        <thead>
+          <tr>
+            <th>Ώρα</th><th>Αγώνας</th><th>Πρωτάθλημα</th>
+            <th class="num">U0.5</th><th class="num">P(κανένα 0-15′)</th><th class="num">Score</th><th class="num">W/L</th>
+          </tr>
+        </thead>
+        <tbody id="picks-tbody">
+          <tr><td colspan="6" class="loading">Φόρτωση…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="table-container">
+      <div class="table-header"><h2>🌙 Off-season watch list</h2></div>
+      <div class="watch-empty" id="watch-empty">Φόρτωση…</div>
+      <table style="display:none" id="watch-table">
+        <thead>
+          <tr><th>Λίγκα</th><th>Περιοχή</th><th>Τύπος σεζόν</th><th>Τελευταίοι αγώνες</th></tr>
+        </thead>
+        <tbody id="watch-tbody"></tbody>
+      </table>
+    </div>
+
+    <p class="footer" id="footer">LEPTA · Δεν αποτελεί συμβουλή στοιχήματος.</p>
+  </div>
+
+<script>
+  // Public anon key (read-only, safe to embed). Το service key ΠΟΤΕ εδώ.
+  const sb = supabase.createClient(
+    'https://gxvvvlxcvzkphvsmgjhl.supabase.co',
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4dnZ2bHhjdnprcGh2c21namhsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODUzNDEwNDYsImV4cCI6MjEwMDkxNzA0Nn0.Mkt-RXoDQdtvMgwX9WwgyQcE63DbFJrh22G1cKkjGdA'
+  );
+
+  const pct = x => (x === null || x === undefined) ? '—' : (x * 100).toFixed(1) + '%';
+  const fmtTime = s => (s || '').slice(11, 16) || '—';
+  const esc = s => (s ?? '').toString().replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+  function renderCombos(combos, resultMap) {
+    const grid = document.getElementById('combos-grid');
+    if (!combos.length) { grid.innerHTML = '<div class="watch-empty">Δεν υπάρχουν κουπόνια ακόμη.</div>'; return; }
+    const order = { fivefold: 0, double: 1 };
+    combos.sort((a, b) => (order[a.combo_type] - order[b.combo_type]) || (a.combo_index - b.combo_index));
+    grid.innerHTML = combos.map(c => {
+      const name = c.combo_type === 'fivefold' ? 'Πεντάδα' : 'Δυάδα ' + c.combo_index;
+      const ids = c.event_ids || [];
+      const results = ids.map(id => resultMap[id] || 'pending');
+      const legs = (c.match_labels || []).map((l, i) => {
+        const r = results[i];
+        const mark = r === 'win' ? '✅' : r === 'loss' ? '❌' : '';
+        const cls = r === 'win' ? 'leg-win' : r === 'loss' ? 'leg-loss' : '';
+        return `<li class="${cls}">${mark} ${esc(l)}</li>`;
+      }).join('');
+      // κατάσταση κουπονιού: loss αν έστω 1 σκέλος έχασε· win αν όλα win· αλλιώς pending
+      let cstate = 'pending';
+      if (results.includes('loss')) cstate = 'lost';
+      else if (results.length && results.every(r => r === 'win')) cstate = 'hit';
+      const cardcls = c.combo_type === 'fivefold' ? 'fivefold' : '';
+      return `<div class="combo-card ${cardcls} ${cstate}">
+        <div class="ctitle"><span class="name">${name}</span><span class="odds">${Number(c.combined_odds).toFixed(2)}</span></div>
+        <ul class="legs">${legs}</ul>
+        <div class="cmeta">avg score ${Number(c.avg_score).toFixed(1)}${cstate==='hit'?' · ✅ ΠΕΤΥΧΕ':cstate==='lost'?' · ❌ έχασε':''}</div>
+      </div>`;
+    }).join('');
+  }
+
+  function renderPicks(rows) {
+    const tb = document.getElementById('picks-tbody');
+    if (!rows.length) { tb.innerHTML = '<tr><td colspan="7" class="loading">Κανένα pick.</td></tr>'; return; }
+    const wl = r => {
+      if (r === 'win')  return '<span class="wl win">W</span>';
+      if (r === 'loss') return '<span class="wl loss">L</span>';
+      return '<span class="wl pend">·</span>';
+    };
+    tb.innerHTML = rows.map(p => `<tr>
+      <td>${fmtTime(p.kickoff)}</td>
+      <td>${esc(p.match)}</td>
+      <td>${esc(p.region_name)} · ${esc(p.league_name)}</td>
+      <td class="num">${p.under_0_5 ?? '—'}</td>
+      <td class="num">${pct(p.market_p)}</td>
+      <td class="num"><span class="score-pill">${Number(p.score).toFixed(1)}</span></td>
+      <td class="num">${wl(p.result)}</td>
+    </tr>`).join('');
+  }
+
+  function renderWatch(rows) {
+    const empty = document.getElementById('watch-empty');
+    const table = document.getElementById('watch-table');
+    const tb = document.getElementById('watch-tbody');
+    if (!rows.length) {
+      empty.textContent = 'Καμία λίγκα σε off-season watch αυτή τη στιγμή.';
+      table.style.display = 'none'; empty.style.display = 'block'; return;
+    }
+    empty.style.display = 'none'; table.style.display = 'table';
+    tb.innerHTML = rows.map(w => `<tr>
+      <td>${esc(w.league_name)}</td><td>${esc(w.region_name)}</td>
+      <td>${esc(w.season_type)}</td>
+      <td>${(w.last_had_matches || '').slice(0,10) || '—'}</td>
+    </tr>`).join('');
+  }
+
+  function renderStats(picks, combos, watchCount) {
+    document.getElementById('stat-picks').textContent = picks.length || '0';
+    const d = picks[0]?.run_date || '—';
+    document.getElementById('stat-date').textContent = d;
+    const avg = picks.length ? picks.reduce((s, p) => s + Number(p.score), 0) / picks.length : 0;
+    document.getElementById('stat-avg').textContent = picks.length ? avg.toFixed(1) : '-';
+    const five = combos.find(c => c.combo_type === 'fivefold');
+    document.getElementById('stat-five').textContent = five ? Number(five.combined_odds).toFixed(2) : '—';
+    // hit rate (settled μόνο)
+    const w = picks.filter(p => p.result === 'win').length;
+    const l = picks.filter(p => p.result === 'loss').length;
+    const graded = w + l;
+    document.getElementById('stat-hit').textContent = graded ? (100 * w / graded).toFixed(1) + '%' : '—';
+    document.getElementById('stat-hit-sub').textContent = graded ? `${w}W / ${l}L` : 'εκκρεμεί settlement';
+  }
+
+  async function loadData() {
+    const btn = document.getElementById('refresh-btn');
+    btn.disabled = true; btn.textContent = '… φόρτωση';
+    try {
+      // 1) lepta_board = picks + αποτέλεσμα (result), τελευταία run_date
+      const { data: latest, error: e1 } = await sb
+        .from('lepta_board').select('*').order('score', { ascending: false });
+      if (e1) throw e1;
+      const all = latest || [];
+      const maxDate = all.reduce((m, p) => (p.run_date > m ? p.run_date : m), '');
+      const picks = all.filter(p => p.run_date === maxDate);
+
+      // 2) κουπόνια της ίδιας ημέρας
+      const { data: combos, error: e2 } = await sb
+        .from('lepta_combos').select('*').eq('run_date', maxDate);
+      if (e2) throw e2;
+
+      // 3) watchlist (off-season)
+      const { data: watch, error: e3 } = await sb
+        .from('lepta_watchlist').select('*').eq('status', 'off_season');
+      if (e3) throw e3;
+
+      const resultMap = {};
+      picks.forEach(p => { resultMap[p.event_id] = p.result; });
+      renderStats(picks, combos || [], (watch || []).length);
+      renderCombos(combos || [], resultMap);
+      renderPicks(picks);
+      renderWatch(watch || []);
+
+      document.getElementById('footer').textContent =
+        `LEPTA · Τελ. ενημέρωση: ${new Date().toLocaleString('el-GR')} · Δεν αποτελεί συμβουλή στοιχήματος.`;
+    } catch (err) {
+      const isPerm = /permission|denied|rls|policy|not.*allow|401|403/i.test(err.message || '');
+      const hint = isPerm
+        ? '<span class="hint">Τα lepta_* tables δεν διαβάζονται από το anon key — τρέξε τα RLS policies (SELECT για anon) στο Supabase.</span>'
+        : '<span class="hint">Έλεγξε τη σύνδεση με το Supabase.</span>';
+      document.getElementById('combos-grid').innerHTML = `<div class="error">Σφάλμα: ${esc(err.message)}${hint}</div>`;
+      document.getElementById('picks-tbody').innerHTML = `<tr><td colspan="7" class="error">Σφάλμα φόρτωσης.</td></tr>`;
+    } finally {
+      btn.disabled = false; btn.textContent = '↻ Ανανέωση';
+    }
+  }
+
+  loadData();
+  setInterval(loadData, 6 * 60 * 60 * 1000); // auto-refresh κάθε 6 ώρες
+</script>
+</body>
+</html>
