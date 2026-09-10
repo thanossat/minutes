@@ -295,7 +295,10 @@
     const btn = document.getElementById('refresh-btn');
     btn.disabled=true; btn.textContent='… φόρτωση';
     try {
-      const { data: board, error: e1 } = await sb.from('lepta_board').select('*');
+      const { data: board, error: e1 } = await sb.from('lepta_board')
+        .select('*')
+        .order('run_date', { ascending: false })
+        .limit(3000);
       if (e1) throw e1;
       ALL = (board||[]).map(r=>({
         date: r.run_date, event_id: r.event_id, kickoff: r.kickoff, match: r.match,
