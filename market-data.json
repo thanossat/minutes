@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:50:04.568294+00:00",
+  "generated_at": "2026-10-07T07:44:48.903482+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_api": [
@@ -14,7 +14,8 @@
         "risk_probability": 0.09131205673758869,
         "band": "1.01–<1.09",
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:44:48.903482+00:00"
       },
       {
         "id": "api-over-1638101",
@@ -27,7 +28,8 @@
         "risk_probability": 0.11290322580645173,
         "band": "1.01–<1.09",
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:44:48.903482+00:00"
       },
       {
         "id": "api-over-1611403",
@@ -40,7 +42,8 @@
         "risk_probability": 0.18333333333333324,
         "band": "1.09–1.20",
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:44:48.903482+00:00"
       },
       {
         "id": "api-over-1611404",
@@ -53,7 +56,8 @@
         "risk_probability": 0.18624161073825496,
         "band": "1.09–1.20",
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:44:48.903482+00:00"
       }
     ],
     "over_stoiximan": [
@@ -68,7 +72,8 @@
         "risk_probability": 0.06572164948453607,
         "band": "Χαμηλές αποδόσεις 1.01–<1.09",
         "result": "win",
-        "source": "Stoiximan"
+        "source": "Stoiximan",
+        "updated_at": "2026-10-07T05:04:56.393579+00:00"
       },
       {
         "id": "stoiximan-over-93285571",
@@ -81,7 +86,8 @@
         "risk_probability": 0.07056798623063687,
         "band": "Χαμηλές αποδόσεις 1.01–<1.09",
         "result": "win",
-        "source": "Stoiximan"
+        "source": "Stoiximan",
+        "updated_at": "2026-10-07T05:04:56.409239+00:00"
       },
       {
         "id": "stoiximan-over-93498488",
@@ -94,7 +100,8 @@
         "risk_probability": 0.13414634146341453,
         "band": "Μεσαίες αποδόσεις 1.09–1.15",
         "result": "win",
-        "source": "Stoiximan"
+        "source": "Stoiximan",
+        "updated_at": "2026-10-07T05:04:56.425025+00:00"
       },
       {
         "id": "stoiximan-over-93601413",
@@ -107,7 +114,8 @@
         "risk_probability": 0.1527777777777778,
         "band": "Μεσαίες αποδόσεις 1.09–1.15",
         "result": "win",
-        "source": "Stoiximan"
+        "source": "Stoiximan",
+        "updated_at": "2026-10-07T05:04:56.515071+00:00"
       }
     ],
     "double_chance": [
@@ -123,7 +131,8 @@
         "band": "1.15–1.40",
         "edge": -0.055894351684401045,
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:06:22.737753+00:00"
       },
       {
         "id": "dc-1611405",
@@ -137,7 +146,8 @@
         "band": "1.15–1.40",
         "edge": -0.06338724877216351,
         "result": "pending",
-        "source": "Betano / API-Football"
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-07T07:06:22.737753+00:00"
       }
     ]
   }
