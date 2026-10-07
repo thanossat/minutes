@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-07T07:50:04.568294+00:00",
+  "timezone": "Europe/Athens",
+  "markets": {
+    "over_api": [
+      {
+        "id": "api-over-1517361",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T18:00:00+03:00",
+        "match": "York United - Supra du Quebec",
+        "selection": "Over 0.5",
+        "odds": 1.03,
+        "probability": 0.9086879432624113,
+        "risk_probability": 0.09131205673758869,
+        "band": "1.01–<1.09",
+        "result": "pending",
+        "source": "Betano / API-Football"
+      },
+      {
+        "id": "api-over-1638101",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T19:00:00+03:00",
+        "match": "Gnistan - Inter Turku",
+        "selection": "Over 0.5",
+        "odds": 1.05,
+        "probability": 0.8870967741935483,
+        "risk_probability": 0.11290322580645173,
+        "band": "1.01–<1.09",
+        "result": "pending",
+        "source": "Betano / API-Football"
+      },
+      {
+        "id": "api-over-1611403",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T20:00:00+03:00",
+        "match": "Ben Aknoun - JS El Biar",
+        "selection": "Over 0.5",
+        "odds": 1.1,
+        "probability": 0.8166666666666668,
+        "risk_probability": 0.18333333333333324,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football"
+      },
+      {
+        "id": "api-over-1611404",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T20:00:00+03:00",
+        "match": "CS Constantine - US Biskra",
+        "selection": "Over 0.5",
+        "odds": 1.11,
+        "probability": 0.813758389261745,
+        "risk_probability": 0.18624161073825496,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football"
+      }
+    ],
+    "over_stoiximan": [
+      {
+        "id": "stoiximan-over-93285568",
+        "date": "2026-10-06",
+        "kickoff": "2026-10-06T21:45:00+03:00",
+        "match": "Αγγλία - Τσεχία",
+        "selection": "Over 0.5",
+        "odds": 1.02,
+        "probability": 0.9342783505154639,
+        "risk_probability": 0.06572164948453607,
+        "band": "Χαμηλές αποδόσεις 1.01–<1.09",
+        "result": "win",
+        "source": "Stoiximan"
+      },
+      {
+        "id": "stoiximan-over-93285571",
+        "date": "2026-10-06",
+        "kickoff": "2026-10-06T21:45:00+03:00",
+        "match": "Κροατία - Ισπανία",
+        "selection": "Over 0.5",
+        "odds": 1.025,
+        "probability": 0.9294320137693631,
+        "risk_probability": 0.07056798623063687,
+        "band": "Χαμηλές αποδόσεις 1.01–<1.09",
+        "result": "win",
+        "source": "Stoiximan"
+      },
+      {
+        "id": "stoiximan-over-93498488",
+        "date": "2026-10-06",
+        "kickoff": "2026-10-06T21:45:00+03:00",
+        "match": "Σκωτία - Σλοβενία",
+        "selection": "Over 0.5",
+        "odds": 1.1,
+        "probability": 0.8658536585365855,
+        "risk_probability": 0.13414634146341453,
+        "band": "Μεσαίες αποδόσεις 1.09–1.15",
+        "result": "win",
+        "source": "Stoiximan"
+      },
+      {
+        "id": "stoiximan-over-93601413",
+        "date": "2026-10-06",
+        "kickoff": "2026-10-06T21:45:00+03:00",
+        "match": "Λουξεμβούργο - Βουλγαρία",
+        "selection": "Over 0.5",
+        "odds": 1.1,
+        "probability": 0.8472222222222222,
+        "risk_probability": 0.1527777777777778,
+        "band": "Μεσαίες αποδόσεις 1.09–1.15",
+        "result": "win",
+        "source": "Stoiximan"
+      }
+    ],
+    "double_chance": [
+      {
+        "id": "dc-1596473",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T21:45:00+03:00",
+        "match": "Avro - Lancaster City",
+        "selection": "Home/Draw",
+        "odds": 1.18,
+        "probability": 0.7915632754342431,
+        "risk_probability": 0.2084367245657569,
+        "band": "1.15–1.40",
+        "edge": -0.055894351684401045,
+        "result": "pending",
+        "source": "Betano / API-Football"
+      },
+      {
+        "id": "dc-1611405",
+        "date": "2026-10-07",
+        "kickoff": "2026-10-07T22:00:00+03:00",
+        "match": "CR Belouizdad - Khenchela",
+        "selection": "Home/Away",
+        "odds": 1.19,
+        "probability": 0.776948885681618,
+        "risk_probability": 0.22305111431838198,
+        "band": "1.15–1.40",
+        "edge": -0.06338724877216351,
+        "result": "pending",
+        "source": "Betano / API-Football"
+      }
+    ]
+  }
+}
