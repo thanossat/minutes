@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:57:17.460573+00:00",
+  "generated_at": "2026-10-08T05:03:45.904962+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_api": [
@@ -13,9 +13,9 @@
         "probability": 0.9086879432624113,
         "risk_probability": 0.09131205673758869,
         "band": "1.01–<1.09",
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:44:48.903482+00:00"
+        "updated_at": "2026-10-08T05:03:34.542927+00:00"
       },
       {
         "id": "api-over-1638101",
@@ -27,9 +27,9 @@
         "probability": 0.8870967741935483,
         "risk_probability": 0.11290322580645173,
         "band": "1.01–<1.09",
-        "result": "pending",
+        "result": "loss",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:44:48.903482+00:00"
+        "updated_at": "2026-10-08T05:03:34.881615+00:00"
       },
       {
         "id": "api-over-1611403",
@@ -41,9 +41,9 @@
         "probability": 0.8166666666666668,
         "risk_probability": 0.18333333333333324,
         "band": "1.09–1.20",
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:44:48.903482+00:00"
+        "updated_at": "2026-10-08T05:03:35.211832+00:00"
       },
       {
         "id": "api-over-1611404",
@@ -55,9 +55,65 @@
         "probability": 0.813758389261745,
         "risk_probability": 0.18624161073825496,
         "band": "1.09–1.20",
+        "result": "win",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:35.540112+00:00"
+      },
+      {
+        "id": "api-over-1565207",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T20:30:00+03:00",
+        "match": "CFR 1907 Cluj - Universitatea Cluj",
+        "selection": "Over 0.5",
+        "odds": 1.06,
+        "probability": 0.8996212121212122,
+        "risk_probability": 0.10037878787878785,
+        "band": "1.01–<1.09",
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:44:48.903482+00:00"
+        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+      },
+      {
+        "id": "api-over-1602506",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T18:00:00+03:00",
+        "match": "FC Politehnica Timisoara - CSA Steaua Bucureşti",
+        "selection": "Over 0.5",
+        "odds": 1.04,
+        "probability": 0.8937691521961184,
+        "risk_probability": 0.10623084780388159,
+        "band": "1.01–<1.09",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+      },
+      {
+        "id": "api-over-1633901",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T15:15:00+03:00",
+        "match": "Viettel - Hồng Lĩnh Hà Tĩnh",
+        "selection": "Over 0.5",
+        "odds": 1.09,
+        "probability": 0.844062947067239,
+        "risk_probability": 0.15593705293276106,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+      },
+      {
+        "id": "api-over-1644709",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T23:30:00+03:00",
+        "match": "Portmore United - Waterhouse",
+        "selection": "Over 0.5",
+        "odds": 1.09,
+        "probability": 0.844062947067239,
+        "risk_probability": 0.15593705293276106,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:34.168772+00:00"
       }
     ],
     "over_stoiximan": [
@@ -130,9 +186,9 @@
         "risk_probability": 0.2084367245657569,
         "band": "1.15–1.40",
         "edge": -0.055894351684401045,
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:06:22.737753+00:00"
+        "updated_at": "2026-10-08T05:03:40.447986+00:00"
       },
       {
         "id": "dc-1611405",
@@ -145,9 +201,39 @@
         "risk_probability": 0.22305111431838198,
         "band": "1.15–1.40",
         "edge": -0.06338724877216351,
+        "result": "win",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:40.780804+00:00"
+      },
+      {
+        "id": "dc-1638102",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T18:00:00+03:00",
+        "match": "HJK Helsinki - VPS",
+        "selection": "Home/Draw",
+        "odds": 1.17,
+        "probability": 0.8302164039540476,
+        "risk_probability": 0.1697835960459524,
+        "band": "1.15–1.40",
+        "edge": -0.024484450746807163,
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T07:06:22.737753+00:00"
+        "updated_at": "2026-10-08T05:03:40.072114+00:00"
+      },
+      {
+        "id": "dc-1638103",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T19:00:00+03:00",
+        "match": "KuPS - AC Oulu",
+        "selection": "Home/Draw",
+        "odds": 1.17,
+        "probability": 0.8236790053687483,
+        "risk_probability": 0.17632099463125173,
+        "band": "1.15–1.40",
+        "edge": -0.0310218493321065,
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:40.072114+00:00"
       }
     ],
     "draw_no_bet": [
@@ -162,9 +248,9 @@
         "risk_probability": 0.4077669902912622,
         "band": "1.20–1.80",
         "edge": -0.03276699029126218,
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T13:57:17.460573+00:00"
+        "updated_at": "2026-10-08T05:03:45.573454+00:00"
       },
       {
         "id": "dnb-1638101",
@@ -177,9 +263,39 @@
         "risk_probability": 0.2728758169934641,
         "band": "1.20–1.80",
         "edge": -0.042106586224233244,
+        "result": "push",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:45.904962+00:00"
+      },
+      {
+        "id": "dnb-1549505",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T23:30:00+03:00",
+        "match": "Atletico Grau - Club Deportivo Los Chankas",
+        "selection": "DNB · Atletico Grau",
+        "odds": 1.29,
+        "probability": 0.7407407407407407,
+        "risk_probability": 0.2592592592592593,
+        "band": "1.20–1.80",
+        "edge": -0.03445305770887164,
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-07T13:57:17.460573+00:00"
+        "updated_at": "2026-10-08T05:03:45.204395+00:00"
+      },
+      {
+        "id": "dnb-1638103",
+        "date": "2026-10-08",
+        "kickoff": "2026-10-08T19:00:00+03:00",
+        "match": "KuPS - AC Oulu",
+        "selection": "DNB · KuPS",
+        "odds": 1.24,
+        "probability": 0.7681159420289856,
+        "risk_probability": 0.2318840579710144,
+        "band": "1.20–1.80",
+        "edge": -0.03833567087424028,
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-08T05:03:45.204395+00:00"
       }
     ]
   }
