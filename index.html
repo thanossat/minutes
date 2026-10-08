@@ -164,9 +164,9 @@
       <section class="change-card after">
         <h3>Μετά · Paid context <span class="status-chip" id="after-status">shadow</span></h3>
         <div class="change-metrics">
-          <div class="change-metric"><span>Context ready</span><strong id="after-ready">—</strong></div>
-          <div class="change-metric"><span>W / L</span><strong id="after-wl">—</strong></div>
-          <div class="change-metric"><span>Hit rate</span><strong id="after-rate">—</strong></div>
+          <div class="change-metric"><span>Tracked / Ready</span><strong id="after-ready">—</strong></div>
+          <div class="change-metric"><span id="after-wl-label">Provisional W / L</span><strong id="after-wl">—</strong></div>
+          <div class="change-metric"><span id="after-rate-label">Provisional hit rate</span><strong id="after-rate">—</strong></div>
         </div>
         <p class="change-note" id="after-note">Φόρτωση paid-context στατιστικών…</p>
       </section>
@@ -246,13 +246,21 @@
       document.getElementById('after-note').textContent='Δεν υπάρχει ακόμη ενημερωμένο paid-context αρχείο.';
       return;
     }
-    document.getElementById('after-ready').textContent=`${after.context_ready}/${after.tracked}`;
-    document.getElementById('after-wl').textContent=`${after.eligible_wins} / ${after.eligible_losses}`;
-    document.getElementById('after-rate').textContent=after.eligible_hit_rate==null?'—':(100*after.eligible_hit_rate).toFixed(1)+'%';
+    const hasEligible=after.eligible_settled>0;
+    const shownWins=hasEligible?after.eligible_wins:after.tracked_wins;
+    const shownLosses=hasEligible?after.eligible_losses:after.tracked_losses;
+    const shownSettled=shownWins+shownLosses;
+    document.getElementById('after-ready').textContent=`${after.tracked} / ${after.context_ready}`;
+    document.getElementById('after-wl-label').textContent=hasEligible?'Validated W / L':'Provisional W / L';
+    document.getElementById('after-rate-label').textContent=hasEligible?'Validated hit rate':'Provisional hit rate';
+    document.getElementById('after-wl').textContent=`${shownWins} / ${shownLosses}`;
+    document.getElementById('after-rate').textContent=shownSettled?(100*shownWins/shownSettled).toFixed(1)+'%':'—';
     document.getElementById('after-status').textContent=after.status==='measuring'?'measuring':'validation';
     const coverage=after.average_coverage==null?'—':(100*after.average_coverage).toFixed(1)+'%';
     document.getElementById('after-note').textContent=
-      `Μέση κάλυψη ${coverage} · ${after.collecting} ακόμη collecting · W/L μόνο για context-ready αγώνες πριν τη σέντρα.`;
+      hasEligible
+        ? `Μέση κάλυψη ${coverage} · ${after.collecting} ακόμη collecting · validated δείγμα ${after.eligible_settled}.`
+        : `Μέση κάλυψη ${coverage} · ${after.tracked_settled} provisional settled · κανένας αγώνας δεν είναι ακόμη context-ready.`;
   }
 
   function renderCombos(){
