@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:59:37.065891+00:00",
+  "generated_at": "2026-10-09T13:45:02.287507+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -50,27 +50,27 @@
         "updated_at": "2026-10-09T11:59:37.065891+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-92544336",
+        "id": "over15-over15-conservative-v0.2-three-hour-92544336",
         "date": "2026-10-09",
         "kickoff": "2026-10-09T20:00:00+03:00",
         "match": "Πεναφιέλ - AVS",
         "selection": "Over 1.5",
-        "odds": 1.38,
+        "odds": 1.36,
         "probability": 0.6971119549929516,
         "market_probability": 0.7058823529411764,
-        "break_even_probability": 0.7246376811594204,
+        "break_even_probability": 0.7352941176470588,
         "risk_probability": 0.30288804500704836,
-        "edge": -0.027525726166468756,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "edge": -0.03818216265410712,
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": -0.019999999999999796,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-09T11:59:37.065891+00:00"
+        "updated_at": "2026-10-09T13:45:02.287507+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-92937788",
