@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:03:45.904962+00:00",
+  "generated_at": "2026-10-09T05:07:55.723370+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_api": [
@@ -69,9 +69,9 @@
         "probability": 0.8996212121212122,
         "risk_probability": 0.10037878787878785,
         "band": "1.01–<1.09",
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+        "updated_at": "2026-10-09T05:07:32.830707+00:00"
       },
       {
         "id": "api-over-1602506",
@@ -83,9 +83,9 @@
         "probability": 0.8937691521961184,
         "risk_probability": 0.10623084780388159,
         "band": "1.01–<1.09",
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+        "updated_at": "2026-10-09T05:07:33.168037+00:00"
       },
       {
         "id": "api-over-1633901",
@@ -97,9 +97,9 @@
         "probability": 0.844062947067239,
         "risk_probability": 0.15593705293276106,
         "band": "1.09–1.20",
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+        "updated_at": "2026-10-09T05:07:33.504365+00:00"
       },
       {
         "id": "api-over-1644709",
@@ -111,9 +111,65 @@
         "probability": 0.844062947067239,
         "risk_probability": 0.15593705293276106,
         "band": "1.09–1.20",
+        "result": "win",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:33.838425+00:00"
+      },
+      {
+        "id": "api-over-1603037",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T17:55:00+03:00",
+        "match": "Al-Fateh - Al-Ahli Jeddah",
+        "selection": "Over 0.5",
+        "odds": 1.02,
+        "probability": 0.9320905459387483,
+        "risk_probability": 0.0679094540612517,
+        "band": "1.01–<1.09",
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:34.168772+00:00"
+        "updated_at": "2026-10-09T05:07:32.436569+00:00"
+      },
+      {
+        "id": "api-over-1603042",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T21:00:00+03:00",
+        "match": "Al-Nassr - Al Diriyah",
+        "selection": "Over 0.5",
+        "odds": 1.03,
+        "probability": 0.929112181693049,
+        "risk_probability": 0.07088781830695101,
+        "band": "1.01–<1.09",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:32.436569+00:00"
+      },
+      {
+        "id": "api-over-1552493",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T21:00:00+03:00",
+        "match": "Sochaux - Boulogne",
+        "selection": "Over 0.5",
+        "odds": 1.1,
+        "probability": 0.8658536585365855,
+        "risk_probability": 0.13414634146341453,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:32.436569+00:00"
+      },
+      {
+        "id": "api-over-1575516",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T20:45:00+03:00",
+        "match": "Moreirense - GIL Vicente",
+        "selection": "Over 0.5",
+        "odds": 1.09,
+        "probability": 0.8700834326579261,
+        "risk_probability": 0.1299165673420739,
+        "band": "1.09–1.20",
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:32.436569+00:00"
       }
     ],
     "over_stoiximan": [
@@ -172,6 +228,48 @@
         "result": "win",
         "source": "Stoiximan",
         "updated_at": "2026-10-07T05:04:56.515071+00:00"
+      },
+      {
+        "id": "stoiximan-over-91700954",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T20:00:00+03:00",
+        "match": "Μπραν - Βίκινγκ",
+        "selection": "Over 0.5",
+        "odds": 1.025,
+        "probability": 0.9129511677282377,
+        "risk_probability": 0.0870488322717623,
+        "band": "Χαμηλές αποδόσεις 1.01–<1.09",
+        "result": null,
+        "source": "Stoiximan",
+        "updated_at": "2026-10-09T05:07:19.073099+00:00"
+      },
+      {
+        "id": "stoiximan-over-93539331",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T21:00:00+03:00",
+        "match": "Ντόρντρεχτ - Έμεν",
+        "selection": "Over 0.5",
+        "odds": 1.025,
+        "probability": 0.911062906724512,
+        "risk_probability": 0.08893709327548804,
+        "band": "Χαμηλές αποδόσεις 1.01–<1.09",
+        "result": null,
+        "source": "Stoiximan",
+        "updated_at": "2026-10-09T05:07:19.239122+00:00"
+      },
+      {
+        "id": "stoiximan-over-89353089",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T22:00:00+03:00",
+        "match": "Μάλαγα - Εσπανιόλ",
+        "selection": "Over 0.5",
+        "odds": 1.09,
+        "probability": 0.8773903262092237,
+        "risk_probability": 0.12260967379077625,
+        "band": "Μεσαίες αποδόσεις 1.09–1.15",
+        "result": null,
+        "source": "Stoiximan",
+        "updated_at": "2026-10-09T05:07:19.029581+00:00"
       }
     ],
     "double_chance": [
@@ -216,9 +314,9 @@
         "risk_probability": 0.1697835960459524,
         "band": "1.15–1.40",
         "edge": -0.024484450746807163,
-        "result": "pending",
+        "result": "win",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:40.072114+00:00"
+        "updated_at": "2026-10-09T05:07:44.480529+00:00"
       },
       {
         "id": "dc-1638103",
@@ -231,9 +329,39 @@
         "risk_probability": 0.17632099463125173,
         "band": "1.15–1.40",
         "edge": -0.0310218493321065,
+        "result": "loss",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:44.814448+00:00"
+      },
+      {
+        "id": "dc-1563190",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T22:00:00+03:00",
+        "match": "West Ham - QPR",
+        "selection": "Home/Draw",
+        "odds": 1.15,
+        "probability": 0.8454998534154207,
+        "risk_probability": 0.15450014658457933,
+        "band": "1.15–1.40",
+        "edge": -0.02406536397588377,
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:40.072114+00:00"
+        "updated_at": "2026-10-09T05:07:44.114433+00:00"
+      },
+      {
+        "id": "dc-1603037",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T17:55:00+03:00",
+        "match": "Al-Fateh - Al-Ahli Jeddah",
+        "selection": "Draw/Away",
+        "odds": 1.15,
+        "probability": 0.846528365791702,
+        "risk_probability": 0.153471634208298,
+        "band": "1.15–1.40",
+        "edge": -0.023036851599602448,
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:44.114433+00:00"
       }
     ],
     "draw_no_bet": [
@@ -278,9 +406,9 @@
         "risk_probability": 0.2592592592592593,
         "band": "1.20–1.80",
         "edge": -0.03445305770887164,
-        "result": "pending",
+        "result": "push",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:45.204395+00:00"
+        "updated_at": "2026-10-09T05:07:55.384247+00:00"
       },
       {
         "id": "dnb-1638103",
@@ -293,9 +421,39 @@
         "risk_probability": 0.2318840579710144,
         "band": "1.20–1.80",
         "edge": -0.03833567087424028,
+        "result": "loss",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:55.723370+00:00"
+      },
+      {
+        "id": "dnb-1563190",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T22:00:00+03:00",
+        "match": "West Ham - QPR",
+        "selection": "DNB · West Ham",
+        "odds": 1.2,
+        "probability": 0.8045977011494254,
+        "risk_probability": 0.19540229885057459,
+        "band": "1.20–1.80",
+        "edge": -0.028735632183907955,
         "result": "pending",
         "source": "Betano / API-Football",
-        "updated_at": "2026-10-08T05:03:45.204395+00:00"
+        "updated_at": "2026-10-09T05:07:55.011023+00:00"
+      },
+      {
+        "id": "dnb-1575512",
+        "date": "2026-10-09",
+        "kickoff": "2026-10-09T22:15:00+03:00",
+        "match": "SC Braga - Sporting CP",
+        "selection": "DNB · Sporting CP",
+        "odds": 1.55,
+        "probability": 0.6159420289855072,
+        "risk_probability": 0.3840579710144928,
+        "band": "1.20–1.80",
+        "edge": -0.02921926133707342,
+        "result": "pending",
+        "source": "Betano / API-Football",
+        "updated_at": "2026-10-09T05:07:55.011023+00:00"
       }
     ]
   }
