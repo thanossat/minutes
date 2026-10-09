@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-09T15:15:02.072658+00:00",
+  "generated_at": "2026-10-09T15:45:01.577020+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
       {
-        "id": "over15-over15-conservative-v0.2-89353089",
+        "id": "over15-over15-conservative-v0.2-three-hour-89353089",
         "date": "2026-10-09",
         "kickoff": "2026-10-09T22:00:00+03:00",
         "match": "Μάλαγα - Εσπανιόλ",
         "selection": "Over 1.5",
         "odds": 1.35,
-        "probability": 0.6840911244324824,
-        "market_probability": 0.7065217391304348,
+        "probability": 0.6869205991468847,
+        "market_probability": 0.7149122807017544,
         "break_even_probability": 0.7407407407407407,
-        "risk_probability": 0.31590887556751757,
-        "edge": -0.056649616308258266,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "risk_probability": 0.31307940085311525,
+        "edge": -0.05382014159385595,
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.0,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-09T11:59:37.065891+00:00"
+        "updated_at": "2026-10-09T15:45:01.577020+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-three-hour-92097668",
