@@ -27,7 +27,8 @@
       "brier": null,
       "logloss": null
     },
-    "status": "live"
+    "status": "live",
+    "production_keys": []
   },
   "rules": {
     "minimum_coverage": 0.9,

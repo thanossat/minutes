@@ -388,6 +388,11 @@
         const response=await fetch('minutes-context-data.json?ts='+Date.now(),{cache:'no-store'});
         CONTEXT_STATS=response.ok ? await response.json() : null;
       } catch(_){ CONTEXT_STATS=null; }
+      if(CONTEXT_STATS?.after?.production_keys){
+        const production=new Set(CONTEXT_STATS.after.production_keys);
+        ALL=ALL.filter(r=>r.date<'2026-10-09'||production.has(`${r.date}:${r.event_id}`));
+        COMBOS=COMBOS.filter(c=>(c.event_ids||[]).every(id=>production.has(`${maxDate}:${id}`)));
+      }
 
       // default: τελευταίος μήνας/έτος + 2 πιο πρόσφατες μέρες ανοιχτές
       if (maxDate){ selYear=+maxDate.slice(0,4); selMonth=+maxDate.slice(5,7)-1; }
