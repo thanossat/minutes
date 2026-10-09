@@ -162,13 +162,13 @@
         <p class="change-note">Η πραγματική υπάρχουσα ροή του Minutes, όπως καταγράφεται στο board.</p>
       </section>
       <section class="change-card after">
-        <h3>Μετά · Paid context <span class="status-chip" id="after-status">shadow</span></h3>
+        <h3>Μετά · Paid API scorer v1 <span class="status-chip" id="after-status">live</span></h3>
         <div class="change-metrics">
-          <div class="change-metric"><span>Tracked / Ready</span><strong id="after-ready">—</strong></div>
-          <div class="change-metric"><span id="after-wl-label">Provisional W / L</span><strong id="after-wl">—</strong></div>
-          <div class="change-metric"><span id="after-rate-label">Provisional hit rate</span><strong id="after-rate">—</strong></div>
+          <div class="change-metric"><span>Scored / API adjusted</span><strong id="after-ready">—</strong></div>
+          <div class="change-metric"><span id="after-wl-label">Brier model / market</span><strong id="after-wl">—</strong></div>
+          <div class="change-metric"><span id="after-rate-label">LogLoss model / market</span><strong id="after-rate">—</strong></div>
         </div>
-        <p class="change-note" id="after-note">Φόρτωση paid-context στατιστικών…</p>
+        <p class="change-note" id="after-note">Φόρτωση στατιστικών paid API scorer…</p>
       </section>
     </div>
 
@@ -246,21 +246,15 @@
       document.getElementById('after-note').textContent='Δεν υπάρχει ακόμη ενημερωμένο paid-context αρχείο.';
       return;
     }
-    const hasEligible=after.eligible_settled>0;
-    const shownWins=hasEligible?after.eligible_wins:after.tracked_wins;
-    const shownLosses=hasEligible?after.eligible_losses:after.tracked_losses;
-    const shownSettled=shownWins+shownLosses;
     document.getElementById('after-ready').textContent=`${after.tracked} / ${after.context_ready}`;
-    document.getElementById('after-wl-label').textContent=hasEligible?'Validated W / L':'Provisional W / L';
-    document.getElementById('after-rate-label').textContent=hasEligible?'Validated hit rate':'Provisional hit rate';
-    document.getElementById('after-wl').textContent=`${shownWins} / ${shownLosses}`;
-    document.getElementById('after-rate').textContent=shownSettled?(100*shownWins/shownSettled).toFixed(1)+'%':'—';
-    document.getElementById('after-status').textContent=after.status==='measuring'?'measuring':'validation';
+    const mm=after.model_metrics||{}, bm=after.market_metrics||{};
+    const metric=(a,b)=>a==null||b==null?'—':`${Number(a).toFixed(4)} / ${Number(b).toFixed(4)}`;
+    document.getElementById('after-wl').textContent=metric(mm.brier,bm.brier);
+    document.getElementById('after-rate').textContent=metric(mm.logloss,bm.logloss);
+    document.getElementById('after-status').textContent='live';
     const coverage=after.average_coverage==null?'—':(100*after.average_coverage).toFixed(1)+'%';
     document.getElementById('after-note').textContent=
-      hasEligible
-        ? `Μέση κάλυψη ${coverage} · ${after.collecting} ακόμη collecting · validated δείγμα ${after.eligible_settled}.`
-        : `Μέση κάλυψη ${coverage} · ${after.tracked_settled} provisional settled · κανένας αγώνας δεν είναι ακόμη context-ready.`;
+      `Μέση κάλυψη ${coverage} · συγκρίσιμο settled δείγμα ${mm.n||0}. Χαμηλότερο Brier/LogLoss είναι καλύτερο.`;
   }
 
   function renderCombos(){
