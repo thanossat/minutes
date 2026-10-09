@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:45:01.577020+00:00",
+  "generated_at": "2026-10-09T16:00:02.091485+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -73,27 +73,27 @@
         "updated_at": "2026-10-09T13:45:02.287507+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-92937788",
+        "id": "over15-over15-conservative-v0.2-three-hour-92937788",
         "date": "2026-10-09",
         "kickoff": "2026-10-09T22:15:00+03:00",
         "match": "Μπράγκα - Σπόρτινγκ",
         "selection": "Over 1.5",
-        "odds": 1.33,
-        "probability": 0.6759924051886665,
-        "market_probability": 0.7120181405895691,
-        "break_even_probability": 0.7518796992481203,
-        "risk_probability": 0.32400759481133345,
-        "edge": -0.07588729405945371,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "odds": 1.37,
+        "probability": 0.6611722261386019,
+        "market_probability": 0.6955503512880562,
+        "break_even_probability": 0.7299270072992701,
+        "risk_probability": 0.33882777386139806,
+        "edge": -0.06875478116066813,
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.040000000000000036,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-09T11:59:37.065891+00:00"
+        "updated_at": "2026-10-09T16:00:02.091485+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-three-hour-92940741",
