@@ -164,7 +164,7 @@
       <section class="change-card after">
         <h3>Μετά · Paid API scorer v1 <span class="status-chip" id="after-status">live</span></h3>
         <div class="change-metrics">
-          <div class="change-metric"><span>Scored / API adjusted</span><strong id="after-ready">—</strong></div>
+          <div class="change-metric"><span>Evaluated / API adjusted</span><strong id="after-ready">—</strong></div>
           <div class="change-metric"><span id="after-wl-label">Brier model / market</span><strong id="after-wl">—</strong></div>
           <div class="change-metric"><span id="after-rate-label">LogLoss model / market</span><strong id="after-rate">—</strong></div>
         </div>
@@ -298,7 +298,7 @@
     const el = document.getElementById('days');
     if (!dates.length){ el.innerHTML = '<div class="stat-card">Καμία μέρα με picks σε αυτόν τον μήνα.</div>'; return; }
     el.innerHTML = dates.map(ds=>{
-      const rows = ALL.filter(r=>r.date===ds).sort((a,b)=>b.score-a.score);
+      const rows = ALL.filter(r=>r.date===ds).sort((a,b)=>b.score-a.score).slice(0,20);
       const t = tally(rows);
       const open = expanded.has(ds);
       const body = rows.map(p=>`<tr>
@@ -307,6 +307,7 @@
         <td>${esc(p.region)} · ${esc(p.league)}</td>
         <td class="num">${p.under_0_5 ?? '—'}</td>
         <td class="num">${pct(p.market_p)}</td>
+        <td>${p.api_adjusted?'API adjusted':'Market fallback'}</td>
         <td class="num"><span class="score-pill">${Number(p.score).toFixed(1)}</span></td>
         <td class="num">${wlBadge(p.result)}</td>
       </tr>`).join('');
@@ -321,7 +322,7 @@
           <table>
             <thead><tr>
               <th>Ώρα</th><th>Αγώνας</th><th>Πρωτάθλημα</th>
-              <th class="num">U0.5</th><th class="num">P(0-15′)</th><th class="num">Score</th><th class="num">W/L</th>
+              <th class="num">U0.5</th><th class="num">Market P</th><th>Πηγή score</th><th class="num">Score</th><th class="num">W/L</th>
             </tr></thead>
             <tbody>${body}</tbody>
           </table>
@@ -360,11 +361,15 @@
         .order('run_date', { ascending: false })
         .limit(3000);
       if (e1) throw e1;
-      ALL = (board||[]).map(r=>({
+      const raw = (board||[]).map(r=>({
         date: r.run_date, event_id: r.event_id, kickoff: r.kickoff, match: r.match,
         region: r.region_name, league: r.league_name, under_0_5: r.under_0_5,
-        market_p: r.market_p, score: Number(r.score), result: r.result || 'pending'
+        market_p: r.market_p, score: Number(r.score), api_adjusted: r.empirical_p!=null,
+        result: r.result || 'pending'
       })).filter(r=>r.date);
+      ALL = Object.values(raw.reduce((days,row)=>{
+        (days[row.date]??=[]).push(row); return days;
+      },{})).flatMap(rows=>rows.sort((a,b)=>b.score-a.score).slice(0,20));
 
       const dates = [...new Set(ALL.map(r=>r.date))].sort();
       const maxDate = dates.length ? dates[dates.length-1] : null;
