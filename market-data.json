@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:16:07.790745+00:00",
+  "generated_at": "2026-10-10T08:15:02.439080+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -326,27 +326,27 @@
         "updated_at": "2026-10-10T05:16:07.430201+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-92790444",
+        "id": "over15-over15-conservative-v0.2-three-hour-92790444",
         "date": "2026-10-10",
         "kickoff": "2026-10-10T14:30:00+03:00",
         "match": "Γουέστ Μπρομ - Μπέρμιγχαμ",
         "selection": "Over 1.5",
-        "odds": 1.34,
-        "probability": 0.6755128138798588,
-        "market_probability": 0.7096069868995633,
-        "break_even_probability": 0.7462686567164178,
-        "risk_probability": 0.32448718612014116,
-        "edge": -0.070755842836559,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "odds": 1.35,
+        "probability": 0.6744066350021389,
+        "market_probability": 0.706896551724138,
+        "break_even_probability": 0.7407407407407407,
+        "risk_probability": 0.32559336499786107,
+        "edge": -0.06633410573860177,
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.010000000000000009,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-10T05:16:07.430201+00:00"
+        "updated_at": "2026-10-10T08:15:02.439080+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-92790448",
