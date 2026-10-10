@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:27:37.284996+00:00",
+  "generated_at": "2026-10-10T11:35:48.107068+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -21,7 +21,7 @@
         "rejection_reason": "Επιλέχθηκε βάσει API πιθανότητας",
         "result": "loss",
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
-        "updated_at": "2026-10-10T05:16:07.790745+00:00"
+        "updated_at": "2026-10-10T11:35:48.107068+00:00"
       },
       {
         "id": "production-over_1_5-1643173:Over 1.5",
@@ -2488,11 +2488,11 @@
       "model_version": "football-api-poisson-v1.1-accuracy",
       "scored": 434,
       "selected": 2,
-      "settled_scores": 21,
-      "model_brier": 0.0060854299136821255,
-      "market_brier": 0.013472820413496506,
-      "model_logloss": 0.07877853615910924,
-      "market_logloss": 0.12179266397000228,
+      "settled_scores": 25,
+      "model_brier": 0.0065310864229628065,
+      "market_brier": 0.013563190566968758,
+      "model_logloss": 0.08191520238774823,
+      "market_logloss": 0.12245880939763662,
       "settled_picks": 0,
       "pick_roi": null
     },
@@ -2500,11 +2500,11 @@
       "model_version": "football-api-poisson-v1.1-accuracy",
       "scored": 1432,
       "selected": 2,
-      "settled_scores": 91,
-      "model_brier": 0.17715656158893847,
-      "market_brier": 0.17052927023692785,
-      "model_logloss": 0.5398274699490885,
-      "market_logloss": 0.5213833110678867,
+      "settled_scores": 106,
+      "model_brier": 0.18317898715037698,
+      "market_brier": 0.17694009867562685,
+      "model_logloss": 0.552790705071002,
+      "market_logloss": 0.5353046327001205,
       "settled_picks": 0,
       "pick_roi": null
     },
@@ -2512,11 +2512,11 @@
       "model_version": "football-api-poisson-v1.1-accuracy",
       "scored": 576,
       "selected": 4,
-      "settled_scores": 30,
-      "model_brier": 0.24148994056559847,
-      "market_brier": 0.2005359951121015,
-      "model_logloss": 0.6747055307110232,
-      "market_logloss": 0.58683523474805,
+      "settled_scores": 35,
+      "model_brier": 0.24972282857666497,
+      "market_brier": 0.22014187755645667,
+      "model_logloss": 0.6918401643351318,
+      "market_logloss": 0.628029833226863,
       "settled_picks": 2,
       "pick_roi": -0.5
     }
