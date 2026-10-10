@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:45:02.266754+00:00",
+  "generated_at": "2026-10-10T11:15:02.097623+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -280,7 +280,7 @@
         "updated_at": "2026-10-10T08:45:01.758670+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-92638312",
+        "id": "over15-over15-conservative-v0.2-three-hour-92638312",
         "date": "2026-10-10",
         "kickoff": "2026-10-10T17:30:00+03:00",
         "match": "Λοκομοτίβ Σόφιας - Λοκομοτίβ Πλόβντιβ",
@@ -291,16 +291,16 @@
         "break_even_probability": 0.7142857142857143,
         "risk_probability": 0.34114355202704005,
         "edge": -0.055429266312754355,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.0,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-10T05:16:07.430201+00:00"
+        "updated_at": "2026-10-10T11:15:02.097623+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-92638313",
