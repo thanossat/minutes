@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:45:01.758670+00:00",
+  "generated_at": "2026-10-10T09:45:01.877177+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -165,30 +165,30 @@
         "updated_at": "2026-10-10T05:16:07.790745+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-89343041",
+        "id": "over15-over15-conservative-v0.2-three-hour-89343041",
         "date": "2026-10-10",
         "kickoff": "2026-10-10T16:00:00+03:00",
         "match": "Αλάνιασπορ - Ερζουρούμσπορ",
         "selection": "Over 1.5",
-        "odds": 1.4,
+        "odds": 1.44,
         "probability": 0.6570963911966036,
         "market_probability": 0.6849315068493151,
-        "break_even_probability": 0.7142857142857143,
+        "break_even_probability": 0.6944444444444444,
         "risk_probability": 0.34290360880339643,
-        "edge": -0.05718932308911073,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "edge": -0.03734805324784085,
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "odds_outside_1_30_1_40 · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.040000000000000036,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-10T05:16:07.430201+00:00"
+        "updated_at": "2026-10-10T09:45:01.877177+00:00"
       },
       {
-        "id": "over15-over15-conservative-v0.2-92097673",
+        "id": "over15-over15-conservative-v0.2-three-hour-92097673",
         "date": "2026-10-10",
         "kickoff": "2026-10-10T16:00:00+03:00",
         "match": "Σουντιρόλ - Άσκολι",
@@ -199,16 +199,16 @@
         "break_even_probability": 0.7518796992481203,
         "risk_probability": 0.31185294017626897,
         "edge": -0.06373263942438923,
-        "band": "Grade B · Απόρριψη · Πρωινό",
+        "band": "Grade B · Απόρριψη · 3 ώρες πριν",
         "decision": "rejected",
         "selected": false,
-        "rejection_reason": "edge κάτω από +2%",
-        "decision_stage": "morning",
-        "decision_change": null,
-        "odds_change": null,
+        "rejection_reason": "edge κάτω από +2% · 3h: παρέμεινε απόρριψη",
+        "decision_stage": "three_hour",
+        "decision_change": "rejected",
+        "odds_change": 0.0,
         "result": "pending",
         "source": "Stoiximan + API-Football · multi-bookmaker model",
-        "updated_at": "2026-10-10T05:16:07.430201+00:00"
+        "updated_at": "2026-10-10T09:45:01.877177+00:00"
       },
       {
         "id": "over15-over15-conservative-v0.2-92293217",
