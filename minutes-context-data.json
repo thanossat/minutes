@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:16:10.350087+00:00",
+  "generated_at": "2026-10-10T12:28:41.484202+00:00",
   "before": {
     "label": "Market-only production",
     "description": "Τα ζωντανά W/L υπολογίζονται από το υπάρχον Minutes board."
@@ -7,9 +7,9 @@
   "after": {
     "label": "Paid API scorer v1",
     "tracked": 168,
-    "context_ready": 27,
-    "collecting": 144,
-    "average_coverage": 0.5631527777777777,
+    "context_ready": 42,
+    "collecting": 141,
+    "average_coverage": 0.8198458333333334,
     "eligible_settled": 0,
     "eligible_wins": 0,
     "eligible_losses": 0,
@@ -28,12 +28,19 @@
       "logloss": 0.5903070836899178
     },
     "status": "live",
-    "production_keys": []
+    "production_keys": [
+      "2026-10-10:93283596",
+      "2026-10-10:93283600"
+    ]
   },
   "rules": {
-    "minimum_coverage": 0.9,
-    "minimum_home_matches": 8,
-    "minimum_away_matches": 8,
+    "minimum_coverage": 0.65,
+    "minimum_home_matches": 6,
+    "minimum_away_matches": 6,
+    "grade_a_coverage": 0.9,
+    "grade_a_matches": 8,
+    "league_minimum_matches": 30,
+    "league_maximum_early_rate": 0.3,
     "minimum_settled_for_review": 50
   }
 }
