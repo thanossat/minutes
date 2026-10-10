@@ -10,6 +10,8 @@
     "context_ready": 42,
     "collecting": 141,
     "average_coverage": 0.8198458333333334,
+    "production_count": 2,
+    "production_start_date": "2026-10-10",
     "eligible_settled": 0,
     "eligible_wins": 0,
     "eligible_losses": 0,
@@ -18,14 +20,14 @@
     "tracked_wins": 28,
     "tracked_losses": 13,
     "model_metrics": {
-      "n": 36,
-      "brier": 0.2095352546591111,
-      "logloss": 0.610293881129537
+      "n": 0,
+      "brier": null,
+      "logloss": null
     },
     "market_metrics": {
-      "n": 36,
-      "brier": 0.2003695489775278,
-      "logloss": 0.5903070836899178
+      "n": 0,
+      "brier": null,
+      "logloss": null
     },
     "status": "live",
     "production_keys": [

@@ -38,16 +38,18 @@
   .stat-card .value.neutral { color: #38bdf8; }
   .stat-card .sub { font-size: 12px; color: #64748b; margin-top: 6px; }
 
-  .change-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; margin-bottom:30px; }
-  .change-card { background:#172032; border:1px solid #334155; border-radius:12px; padding:18px 20px; }
+  .change-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; margin-bottom:30px; align-items:stretch; }
+  .change-card { background:#172032; border:1px solid #334155; border-radius:12px; padding:18px 20px; display:flex; flex-direction:column; }
   .change-card.before { border-left:4px solid #64748b; }
   .change-card.after { border-left:4px solid #a78bfa; }
   .change-card h3 { font-size:13px; color:#cbd5e1; margin-bottom:12px; }
+  .change-card-head { min-height:22px; display:flex; align-items:flex-start; justify-content:space-between; gap:8px; }
   .change-metrics { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
   .change-metric { background:#0f172a; border-radius:8px; padding:10px; }
   .change-metric span { display:block; color:#64748b; font-size:10px; text-transform:uppercase; letter-spacing:.5px; }
   .change-metric strong { display:block; color:#e2e8f0; font-size:19px; margin-top:4px; }
   .change-note { color:#94a3b8; font-size:12px; line-height:1.45; margin-top:12px; }
+  .change-diagnostic { color:#64748b; font-size:11px; line-height:1.45; margin-top:7px; }
   .status-chip { display:inline-block; margin-left:6px; border-radius:999px; padding:2px 8px; font-size:10px; background:#2e2552; color:#c4b5fd; }
 
   .section-title { font-size: 17px; color: #e2e8f0; margin: 0 0 14px; }
@@ -153,22 +155,23 @@
     <h2 class="section-title">Στατιστική πριν και μετά</h2>
     <div class="change-grid">
       <section class="change-card before">
-        <h3>Πριν · Market-only production</h3>
+        <div class="change-card-head"><h3>Πριν · Market-only production</h3></div>
         <div class="change-metrics">
           <div class="change-metric"><span>Settled</span><strong id="before-settled">—</strong></div>
           <div class="change-metric"><span>W / L</span><strong id="before-wl">—</strong></div>
           <div class="change-metric"><span>Hit rate</span><strong id="before-rate">—</strong></div>
         </div>
-        <p class="change-note">Η πραγματική υπάρχουσα ροή του Minutes, όπως καταγράφεται στο board.</p>
+        <p class="change-note" id="before-note">Η πραγματική υπάρχουσα ροή του Minutes, όπως καταγράφεται στο board.</p>
       </section>
       <section class="change-card after">
-        <h3>Μετά · Paid API scorer v1 <span class="status-chip" id="after-status">live</span></h3>
+        <div class="change-card-head"><h3>Μετά · Paid API scorer v1</h3><span class="status-chip" id="after-status">live</span></div>
         <div class="change-metrics">
-          <div class="change-metric"><span>Evaluated / API adjusted</span><strong id="after-ready">—</strong></div>
-          <div class="change-metric"><span id="after-wl-label">Brier model / market</span><strong id="after-wl">—</strong></div>
-          <div class="change-metric"><span id="after-rate-label">LogLoss model / market</span><strong id="after-rate">—</strong></div>
+          <div class="change-metric"><span>Settled</span><strong id="after-ready">—</strong></div>
+          <div class="change-metric"><span>W / L</span><strong id="after-wl">—</strong></div>
+          <div class="change-metric"><span>Hit rate</span><strong id="after-rate">—</strong></div>
         </div>
         <p class="change-note" id="after-note">Φόρτωση στατιστικών paid API scorer…</p>
+        <p class="change-diagnostic" id="after-diagnostic"></p>
       </section>
     </div>
 
@@ -215,7 +218,7 @@
     return `<span class="w">${t.w}W</span> <span class="p">/</span> <span class="l">${t.l}L</span>`+(t.p?` <span class="p">· ${t.p} pend</span>`:'')+(rate!=null?` <span class="rate">(${rate}%)</span>`:''); }
 
   // state
-  let ALL = [], COMBOS = [], WATCH = [], CONTEXT_STATS = null;
+  let ALL = [], ALL_RAW = [], COMBOS = [], WATCH = [], CONTEXT_STATS = null;
   let selYear = null, selMonth = null;
   const expanded = new Set();
 
@@ -234,27 +237,36 @@
   }
 
   function renderChangeStats(){
-    const before=tally(ALL), settled=before.w+before.l;
+    const startDate=CONTEXT_STATS?.after?.production_start_date;
+    const beforeRows=startDate ? ALL_RAW.filter(r=>r.date<startDate) : ALL_RAW;
+    const before=tally(beforeRows), settled=before.w+before.l;
     document.getElementById('before-settled').textContent=settled;
     document.getElementById('before-wl').textContent=`${before.w} / ${before.l}`;
     document.getElementById('before-rate').textContent=settled ? (100*before.w/settled).toFixed(1)+'%' : '—';
+    document.getElementById('before-note').textContent=startDate
+      ? `Market-only production πριν από ${startDate}.`
+      : 'Η πραγματική υπάρχουσα ροή του Minutes, όπως καταγράφεται στο board.';
     const after=CONTEXT_STATS?.after;
     if(!after){
       document.getElementById('after-ready').textContent='—';
       document.getElementById('after-wl').textContent='—';
       document.getElementById('after-rate').textContent='—';
       document.getElementById('after-note').textContent='Δεν υπάρχει ακόμη ενημερωμένο paid-context αρχείο.';
+      document.getElementById('after-diagnostic').textContent='';
       return;
     }
-    document.getElementById('after-ready').textContent=`${after.tracked} / ${after.context_ready}`;
+    const settledAfter=Number(after.eligible_settled||0), winsAfter=Number(after.eligible_wins||0), lossesAfter=Number(after.eligible_losses||0);
+    document.getElementById('after-ready').textContent=settledAfter;
+    document.getElementById('after-wl').textContent=`${winsAfter} / ${lossesAfter}`;
+    document.getElementById('after-rate').textContent=settledAfter ? (100*winsAfter/settledAfter).toFixed(1)+'%' : '—';
     const mm=after.model_metrics||{}, bm=after.market_metrics||{};
     const metric=(a,b)=>a==null||b==null?'—':`${Number(a).toFixed(4)} / ${Number(b).toFixed(4)}`;
-    document.getElementById('after-wl').textContent=metric(mm.brier,bm.brier);
-    document.getElementById('after-rate').textContent=metric(mm.logloss,bm.logloss);
     document.getElementById('after-status').textContent='live';
     const coverage=after.average_coverage==null?'—':(100*after.average_coverage).toFixed(1)+'%';
     document.getElementById('after-note').textContent=
-      `Μέση κάλυψη ${coverage} · συγκρίσιμο settled δείγμα ${mm.n||0}. Χαμηλότερο Brier/LogLoss είναι καλύτερο.`;
+      `${after.tracked} αξιολογήθηκαν · ${after.context_ready} με API score · ${after.production_count||0} πέρασαν Grade A/B · μέση κάλυψη ${coverage}.`;
+    document.getElementById('after-diagnostic').textContent=
+      `Brier μοντέλου / αγοράς: ${metric(mm.brier,bm.brier)} · LogLoss: ${metric(mm.logloss,bm.logloss)} · συγκρίσιμο settled δείγμα: ${mm.n||0}. Έναρξη cohort: ${after.production_start_date||'—'}.`;
   }
 
   function renderCombos(){
@@ -367,9 +379,10 @@
         market_p: r.market_p, score: Number(r.score), api_adjusted: r.empirical_p!=null,
         result: r.result || 'pending'
       })).filter(r=>r.date);
-      ALL = Object.values(raw.reduce((days,row)=>{
+      ALL_RAW = Object.values(raw.reduce((days,row)=>{
         (days[row.date]??=[]).push(row); return days;
       },{})).flatMap(rows=>rows.sort((a,b)=>b.score-a.score).slice(0,20));
+      ALL = [...ALL_RAW];
 
       const dates = [...new Set(ALL.map(r=>r.date))].sort();
       const maxDate = dates.length ? dates[dates.length-1] : null;
