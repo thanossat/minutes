@@ -45,7 +45,7 @@
     <p class="footer">Minutes Market Lab · Καμία αυτόματη τοποθέτηση · Τα projects παραμένουν ανεξάρτητα.</p>
   </main>
   <script>
-    const views={over_1_5:{name:'Over 1.5 · API Model',note:'Accuracy-first Poisson από home/away API ιστορικό · Stoiximan odds μόνο πληροφοριακά'},over_0_5:{name:'Over 0.5 · API Model',note:'API Poisson με Grade A/B · στόχος odds 1.20–1.35 · ελάχιστη model probability 85%'},double_chance:{name:'Διπλή Ευκαιρία · API Model',note:'API Poisson 1X2 + API prediction validation · odds μόνο πληροφοριακά'},draw_no_bet:{name:'DNB · API Model',note:'API πιθανότητα νίκης υπό τον όρο μη ισοπαλίας · odds μόνο πληροφοριακά'}};
+    const views={over_1_5:{name:'Over 1.5 · API Model',note:'Accuracy-first Poisson από home/away API ιστορικό · Stoiximan odds μόνο πληροφοριακά'},over_0_5:{name:'Over 0.5 · API Model',note:'API Poisson Grade A/B · 1.10–1.19 με P≥86% · 1.20–1.35 με P≥85%'},double_chance:{name:'Διπλή Ευκαιρία · API Model',note:'API Poisson 1X2 + API prediction validation · odds μόνο πληροφοριακά'},draw_no_bet:{name:'DNB · API Model',note:'API πιθανότητα νίκης υπό τον όρο μη ισοπαλίας · odds μόνο πληροφοριακά'}};
     const MONTHS=['Ιαν','Φεβ','Μαρ','Απρ','Μάι','Ιουν','Ιουλ','Αύγ','Σεπ','Οκτ','Νοε','Δεκ'];
     let DATA=null,active='over_1_5',selectedYear=null,selectedMonth=null,expanded=new Set();
     const esc=s=>(s??'').toString().replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
