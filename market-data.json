@@ -23,6 +23,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-10T11:35:48.107068+00:00"
       },
@@ -46,6 +47,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T04:58:23.349910+00:00"
       },
@@ -69,6 +71,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T04:58:23.349711+00:00"
       },
@@ -92,6 +95,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T05:02:39.288876+00:00"
       },
@@ -115,6 +119,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T05:02:39.288912+00:00"
       },
@@ -138,6 +143,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T05:02:39.288982+00:00"
       },
@@ -161,6 +167,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Stoiximan",
         "updated_at": "2026-10-11T05:02:39.288947+00:00"
       }
@@ -186,6 +193,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581784+00:00"
       },
@@ -209,6 +217,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582443+00:00"
       },
@@ -232,6 +241,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582430+00:00"
       },
@@ -255,6 +265,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582487+00:00"
       },
@@ -278,6 +289,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582456+00:00"
       },
@@ -301,6 +313,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581770+00:00"
       },
@@ -324,6 +337,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582233+00:00"
       },
@@ -347,6 +361,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582416+00:00"
       },
@@ -370,6 +385,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582099+00:00"
       },
@@ -393,6 +409,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582057+00:00"
       },
@@ -416,6 +433,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582593+00:00"
       },
@@ -439,6 +457,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582468+00:00"
       },
@@ -462,6 +481,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-09T13:59:20.922938+00:00"
       },
@@ -485,6 +505,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581734+00:00"
       },
@@ -508,6 +529,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582997+00:00"
       },
@@ -531,6 +553,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-09T13:59:20.922938+00:00"
       },
@@ -554,6 +577,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581797+00:00"
       },
@@ -577,6 +601,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581837+00:00"
       },
@@ -600,6 +625,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582883+00:00"
       },
@@ -623,6 +649,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.582942+00:00"
       },
@@ -646,6 +673,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.349374+00:00"
       },
@@ -669,6 +697,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.348829+00:00"
       },
@@ -692,6 +721,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.348759+00:00"
       },
@@ -715,6 +745,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.349150+00:00"
       },
@@ -738,6 +769,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.331419+00:00"
       },
@@ -761,6 +793,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.331366+00:00"
       },
@@ -784,6 +817,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332252+00:00"
       },
@@ -807,6 +841,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332078+00:00"
       },
@@ -830,6 +865,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332358+00:00"
       },
@@ -853,6 +889,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.331972+00:00"
       },
@@ -876,6 +913,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.331915+00:00"
       },
@@ -899,6 +937,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332308+00:00"
       },
@@ -922,6 +961,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332415+00:00"
       },
@@ -945,6 +985,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332201+00:00"
       },
@@ -968,6 +1009,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.332028+00:00"
       },
@@ -991,6 +1033,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1014,6 +1057,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1037,6 +1081,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1060,6 +1105,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1083,6 +1129,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1106,6 +1153,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1129,6 +1177,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1152,6 +1201,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1175,6 +1225,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1198,6 +1249,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1221,6 +1273,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1244,6 +1297,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1267,6 +1321,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1290,6 +1345,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       },
@@ -1313,6 +1369,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:24.203826+00:00"
       }
@@ -1338,6 +1395,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577581+00:00"
       },
@@ -1361,6 +1419,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.579183+00:00"
       },
@@ -1384,6 +1443,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.575971+00:00"
       },
@@ -1407,6 +1467,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576137+00:00"
       },
@@ -1430,6 +1491,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.579916+00:00"
       },
@@ -1453,6 +1515,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.578022+00:00"
       },
@@ -1476,6 +1539,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577273+00:00"
       },
@@ -1499,6 +1563,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577146+00:00"
       },
@@ -1522,6 +1587,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576361+00:00"
       },
@@ -1545,6 +1611,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577843+00:00"
       },
@@ -1568,6 +1635,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576289+00:00"
       },
@@ -1591,6 +1659,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.578082+00:00"
       },
@@ -1614,6 +1683,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576061+00:00"
       },
@@ -1637,6 +1707,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576403+00:00"
       },
@@ -1660,6 +1731,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577301+00:00"
       },
@@ -1683,6 +1755,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-09T13:59:20.922938+00:00"
       },
@@ -1706,6 +1779,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.577567+00:00"
       },
@@ -1729,6 +1803,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.575987+00:00"
       },
@@ -1752,6 +1827,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.576444+00:00"
       },
@@ -1775,6 +1851,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.579767+00:00"
       },
@@ -1798,6 +1875,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.258018+00:00"
       },
@@ -1821,6 +1899,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.242077+00:00"
       },
@@ -1844,6 +1923,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.241958+00:00"
       },
@@ -1867,6 +1947,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.246832+00:00"
       },
@@ -1890,6 +1971,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.249086+00:00"
       },
@@ -1913,6 +1995,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.301886+00:00"
       },
@@ -1936,6 +2019,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.244345+00:00"
       },
@@ -1959,6 +2043,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.271188+00:00"
       },
@@ -1982,6 +2067,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.282354+00:00"
       },
@@ -2005,6 +2091,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.302463+00:00"
       },
@@ -2028,6 +2115,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.282547+00:00"
       },
@@ -2051,6 +2139,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.241842+00:00"
       },
@@ -2074,6 +2163,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.894454+00:00"
       },
@@ -2097,6 +2187,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.273695+00:00"
       },
@@ -2120,6 +2211,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.245588+00:00"
       },
@@ -2143,6 +2235,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.301021+00:00"
       },
@@ -2166,6 +2259,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.268524+00:00"
       },
@@ -2189,6 +2283,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.244227+00:00"
       },
@@ -2212,6 +2307,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.297024+00:00"
       },
@@ -2235,6 +2331,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.300904+00:00"
       },
@@ -2258,7 +2355,8 @@
         "probability_detail": "Επιτυχία 92.4% · αποτυχία 7.6%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2281,7 +2379,8 @@
         "probability_detail": "Επιτυχία 84.8% · αποτυχία 15.2%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2304,7 +2403,8 @@
         "probability_detail": "Επιτυχία 93.6% · αποτυχία 6.4%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2327,7 +2427,8 @@
         "probability_detail": "Επιτυχία 90.6% · αποτυχία 9.4%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2350,7 +2451,8 @@
         "probability_detail": "Επιτυχία 89.3% · αποτυχία 10.7%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2373,7 +2475,8 @@
         "probability_detail": "Επιτυχία 88.8% · αποτυχία 11.2%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2396,7 +2499,8 @@
         "probability_detail": "Επιτυχία 87.1% · αποτυχία 12.9%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2419,7 +2523,8 @@
         "probability_detail": "Επιτυχία 84.2% · αποτυχία 15.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2442,7 +2547,8 @@
         "probability_detail": "Επιτυχία 84.2% · αποτυχία 15.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2465,7 +2571,8 @@
         "probability_detail": "Επιτυχία 83.5% · αποτυχία 16.5%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2488,7 +2595,8 @@
         "probability_detail": "Επιτυχία 82.9% · αποτυχία 17.1%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2511,7 +2619,8 @@
         "probability_detail": "Επιτυχία 82.7% · αποτυχία 17.3%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2534,7 +2643,8 @@
         "probability_detail": "Επιτυχία 82.7% · αποτυχία 17.3%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2557,7 +2667,8 @@
         "probability_detail": "Επιτυχία 82.2% · αποτυχία 17.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2580,7 +2691,8 @@
         "probability_detail": "Επιτυχία 81.2% · αποτυχία 18.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2603,7 +2715,8 @@
         "probability_detail": "Επιτυχία 80.7% · αποτυχία 19.3%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2626,7 +2739,8 @@
         "probability_detail": "Επιτυχία 80.3% · αποτυχία 19.7%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2649,7 +2763,8 @@
         "probability_detail": "Επιτυχία 80.3% · αποτυχία 19.7%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2672,7 +2787,8 @@
         "probability_detail": "Επιτυχία 80.2% · αποτυχία 19.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -2695,7 +2811,8 @@
         "probability_detail": "Επιτυχία 80.0% · αποτυχία 20.0%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       }
     ],
@@ -2720,6 +2837,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580595+00:00"
       },
@@ -2743,6 +2861,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580858+00:00"
       },
@@ -2766,6 +2885,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580815+00:00"
       },
@@ -2789,6 +2909,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581421+00:00"
       },
@@ -2812,6 +2933,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580105+00:00"
       },
@@ -2835,6 +2957,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581689+00:00"
       },
@@ -2858,6 +2981,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580649+00:00"
       },
@@ -2881,6 +3005,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580137+00:00"
       },
@@ -2904,6 +3029,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580181+00:00"
       },
@@ -2927,6 +3053,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580669+00:00"
       },
@@ -2950,6 +3077,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580151+00:00"
       },
@@ -2973,6 +3101,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581174+00:00"
       },
@@ -2996,6 +3125,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580308+00:00"
       },
@@ -3019,6 +3149,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581647+00:00"
       },
@@ -3042,6 +3173,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580121+00:00"
       },
@@ -3065,6 +3197,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.580942+00:00"
       },
@@ -3088,6 +3221,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581468+00:00"
       },
@@ -3111,6 +3245,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581155+00:00"
       },
@@ -3134,6 +3269,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581325+00:00"
       },
@@ -3157,6 +3293,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.581140+00:00"
       },
@@ -3180,6 +3317,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.312804+00:00"
       },
@@ -3203,6 +3341,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.306520+00:00"
       },
@@ -3226,6 +3365,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.306466+00:00"
       },
@@ -3249,6 +3389,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.307384+00:00"
       },
@@ -3272,6 +3413,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.308447+00:00"
       },
@@ -3295,6 +3437,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.317426+00:00"
       },
@@ -3318,6 +3461,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.329851+00:00"
       },
@@ -3341,6 +3485,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.330133+00:00"
       },
@@ -3364,6 +3509,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.321911+00:00"
       },
@@ -3387,6 +3533,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.318382+00:00"
       },
@@ -3410,6 +3557,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.309454+00:00"
       },
@@ -3433,6 +3581,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.322035+00:00"
       },
@@ -3456,6 +3605,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.307917+00:00"
       },
@@ -3479,6 +3629,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.329517+00:00"
       },
@@ -3502,6 +3653,7 @@
         "probability_detail": null,
         "result": "push",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.329458+00:00"
       },
@@ -3525,6 +3677,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.327838+00:00"
       },
@@ -3548,6 +3701,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.324228+00:00"
       },
@@ -3571,6 +3725,7 @@
         "probability_detail": null,
         "result": "pending",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-10T05:10:00.894454+00:00"
       },
@@ -3594,6 +3749,7 @@
         "probability_detail": null,
         "result": "loss",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.306117+00:00"
       },
@@ -3617,6 +3773,7 @@
         "probability_detail": null,
         "result": "win",
         "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
         "updated_at": "2026-10-11T04:58:23.317484+00:00"
       },
@@ -3640,7 +3797,8 @@
         "probability_detail": "Νίκη 72.2% · επιστροφή 20.2% · ήττα 7.6%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3663,7 +3821,8 @@
         "probability_detail": "Νίκη 60.9% · επιστροφή 23.9% · ήττα 15.2%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3686,7 +3845,8 @@
         "probability_detail": "Νίκη 76.1% · επιστροφή 17.5% · ήττα 6.4%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3709,7 +3869,8 @@
         "probability_detail": "Νίκη 65.4% · επιστροφή 25.2% · ήττα 9.4%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3732,7 +3893,8 @@
         "probability_detail": "Νίκη 63.5% · επιστροφή 25.8% · ήττα 10.7%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3755,7 +3917,8 @@
         "probability_detail": "Νίκη 63.4% · επιστροφή 25.4% · ήττα 11.2%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3778,7 +3941,8 @@
         "probability_detail": "Νίκη 71.3% · επιστροφή 15.9% · ήττα 12.9%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3801,7 +3965,8 @@
         "probability_detail": "Νίκη 66.1% · επιστροφή 18.1% · ήττα 15.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3824,7 +3989,8 @@
         "probability_detail": "Νίκη 58.8% · επιστροφή 25.4% · ήττα 15.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3847,7 +4013,8 @@
         "probability_detail": "Νίκη 64.7% · επιστροφή 17.1% · ήττα 18.2%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3870,7 +4037,8 @@
         "probability_detail": "Νίκη 59.6% · επιστροφή 23.1% · ήττα 17.3%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3893,7 +4061,8 @@
         "probability_detail": "Νίκη 63.5% · επιστροφή 17.3% · ήττα 19.1%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3916,7 +4085,8 @@
         "probability_detail": "Νίκη 59.0% · επιστροφή 23.2% · ήττα 17.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3939,7 +4109,8 @@
         "probability_detail": "Νίκη 62.2% · επιστροφή 19.0% · ήττα 18.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3962,7 +4133,8 @@
         "probability_detail": "Νίκη 54.1% · επιστροφή 29.4% · ήττα 16.5%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -3985,7 +4157,8 @@
         "probability_detail": "Νίκη 54.6% · επιστροφή 25.7% · ήττα 19.7%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -4008,7 +4181,8 @@
         "probability_detail": "Νίκη 54.4% · επιστροφή 25.7% · ήττα 20.0%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -4031,7 +4205,8 @@
         "probability_detail": "Νίκη 50.2% · επιστροφή 29.9% · ήττα 20.0%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -4054,7 +4229,8 @@
         "probability_detail": "Νίκη 49.4% · επιστροφή 30.9% · ήττα 19.8%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       },
       {
@@ -4077,7 +4253,8 @@
         "probability_detail": "Νίκη 52.0% · επιστροφή 26.7% · ήττα 21.3%",
         "result": "pending",
         "stoiximan_confirmed": false,
-        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι ακόμη επιβεβαιωμένο στη Stoiximan",
+        "market_url": null,
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-10-11T20:21:57.212010+00:00"
       }
     ]
