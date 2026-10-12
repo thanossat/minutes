@@ -5367,26 +5367,26 @@
     "double_chance": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
       "scored": 98,
-      "selected": 3,
+      "selected": 1,
       "settled_scores": 61,
       "model_brier": 0.16266781586897694,
       "market_brier": 0.16099853071502376,
       "model_logloss": 0.5052301457081944,
       "market_logloss": 0.4989555562140967,
-      "settled_picks": 2,
-      "pick_roi": 0.1499999999999999
+      "settled_picks": 0,
+      "pick_roi": null
     },
     "draw_no_bet": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
       "scored": 98,
-      "selected": 3,
+      "selected": 1,
       "settled_scores": 36,
       "model_brier": 0.17513631127332133,
       "market_brier": 0.16495052977826846,
       "model_logloss": 0.5331121503277627,
       "market_logloss": 0.5122978915643726,
-      "settled_picks": 2,
-      "pick_roi": 0.20499999999999996
+      "settled_picks": 0,
+      "pick_roi": null
     }
   }
 }
