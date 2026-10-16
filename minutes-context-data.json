@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-15T05:03:32.188535+00:00",
+  "generated_at": "2026-10-16T05:09:14.760935+00:00",
   "before": {
     "label": "Market-only production",
     "description": "Τα ζωντανά W/L υπολογίζονται από το υπάρχον Minutes board."
   },
   "after": {
     "label": "Paid API scorer v1",
-    "tracked": 213,
-    "context_ready": 66,
-    "collecting": 178,
-    "average_coverage": 0.833426923076923,
-    "production_count": 11,
+    "tracked": 225,
+    "context_ready": 72,
+    "collecting": 189,
+    "average_coverage": 0.8418233160621762,
+    "production_count": 13,
     "production_start_date": "2026-10-10",
     "eligible_settled": 11,
     "eligible_wins": 8,
     "eligible_losses": 3,
     "eligible_hit_rate": 0.7272727272727273,
-    "tracked_settled": 181,
-    "tracked_wins": 130,
+    "tracked_settled": 182,
+    "tracked_wins": 131,
     "tracked_losses": 51,
     "model_metrics": {
       "n": 11,
@@ -41,7 +41,9 @@
       "2026-10-11:93392303",
       "2026-10-12:93447719",
       "2026-10-12:93448056",
-      "2026-10-12:93540761"
+      "2026-10-12:93540761",
+      "2026-10-16:93165842",
+      "2026-10-16:93984502"
     ]
   },
   "rules": {
