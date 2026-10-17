@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:42:59.347122+00:00",
+  "generated_at": "2026-10-17T12:53:16.010784+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -12866,6 +12866,24 @@
         "probability_detail": "xCorners 9.50 · required 70.0%",
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-17-1601559",
+        "date": "2026-10-17",
+        "model_version": "corners-negative-binomial-v0.2-role-specific-research",
+        "kickoff": "2026-10-17T16:00:00+03:00",
+        "match": "Πάντοβα - Εντέλα",
+        "selection": "Under 10.5",
+        "odds": 1.44,
+        "probability": 0.7376254410902588,
+        "risk_probability": 0.26237455890974115,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 8.44 · required 72.4%",
+        "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
+        "updated_at": "2026-10-17T12:53:16.010784+00:00"
       }
     ]
   },
@@ -12970,9 +12988,9 @@
       "model_version": "corners-negative-binomial-v0.2-role-specific-research",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 24,
-      "qualified": 1,
-      "selected": 1,
+      "scored": 25,
+      "qualified": 2,
+      "selected": 2,
       "settled_scores": 9,
       "model_brier": 0.20786340660084868,
       "market_brier": null,
