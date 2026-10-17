@@ -12450,6 +12450,8 @@
         "selected": true,
         "result": "win",
         "probability_detail": "xCorners 7.75 · required 75.5%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:00.282023+00:00"
       },
@@ -12468,6 +12470,8 @@
         "selected": false,
         "result": "win",
         "probability_detail": "xCorners 9.39 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:41:29.713691+00:00"
       },
@@ -12486,6 +12490,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 8.34 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-14T06:00:17.103373+00:00"
       },
@@ -12504,6 +12510,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 11.12 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-14T06:00:17.103373+00:00"
       },
@@ -12522,6 +12530,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-14T06:00:17.103373+00:00"
       },
@@ -12540,6 +12550,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 8.60 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-14T06:00:17.103373+00:00"
       },
@@ -12558,6 +12570,8 @@
         "selected": false,
         "result": "loss",
         "probability_detail": "xCorners 9.99 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:41:30.043615+00:00"
       },
@@ -12576,6 +12590,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.70 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-14T06:00:17.103373+00:00"
       },
@@ -12594,6 +12610,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 74.4%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:04.562164+00:00"
       },
@@ -12612,6 +12630,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:04.562164+00:00"
       },
@@ -12630,6 +12650,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:04.562164+00:00"
       },
@@ -12648,6 +12670,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:04.562164+00:00"
       },
@@ -12666,6 +12690,8 @@
         "selected": false,
         "result": "win",
         "probability_detail": "xCorners 9.29 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:45.588446+00:00"
       },
@@ -12684,6 +12710,8 @@
         "selected": false,
         "result": "loss",
         "probability_detail": "xCorners 10.30 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:45.922023+00:00"
       },
@@ -12702,6 +12730,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-15T05:05:04.562164+00:00"
       },
@@ -12720,6 +12750,8 @@
         "selected": false,
         "result": "win",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:46.255286+00:00"
       },
@@ -12738,6 +12770,8 @@
         "selected": false,
         "result": "win",
         "probability_detail": "xCorners 10.17 · required 72.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-17T05:04:40.859164+00:00"
       },
@@ -12756,6 +12790,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
       },
@@ -12774,6 +12810,8 @@
         "selected": false,
         "result": "win",
         "probability_detail": "xCorners 9.81 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-17T05:04:40.199408+00:00"
       },
@@ -12792,6 +12830,8 @@
         "selected": false,
         "result": "loss",
         "probability_detail": "xCorners 9.94 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-17T05:04:40.529728+00:00"
       },
@@ -12810,6 +12850,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
       },
@@ -12828,6 +12870,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
       },
@@ -12846,6 +12890,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
       },
@@ -12864,6 +12910,8 @@
         "selected": false,
         "result": "pending",
         "probability_detail": "xCorners 9.50 · required 70.0%",
+        "stoiximan_confirmed": false,
+        "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
         "updated_at": "2026-10-16T05:05:52.519541+00:00"
       },
@@ -12882,7 +12930,9 @@
         "selected": true,
         "result": "pending",
         "probability_detail": "xCorners 8.44 · required 72.4%",
-        "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/padova-edela/92997188/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
         "updated_at": "2026-10-17T12:53:16.010784+00:00"
       }
     ]
