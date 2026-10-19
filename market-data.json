@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:07:48.993031+00:00",
+  "generated_at": "2026-10-19T05:06:58.253754+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -1511,11 +1511,11 @@
         "selected": true,
         "rejection_reason": "Επιλέχθηκε βάσει API πιθανότητας",
         "probability_detail": null,
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/bourgos-sabadel/89737778/",
         "source": "API-Football αγωνιστικό μοντέλο · απόδοση αναφοράς Betano",
-        "updated_at": "2026-10-18T05:02:56.681817+00:00"
+        "updated_at": "2026-10-19T05:04:08.089019+00:00"
       }
     ],
     "double_chance": [
@@ -5185,11 +5185,11 @@
         "selected": true,
         "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
         "probability_detail": "Επιτυχία 93.2% · αποτυχία 6.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kongsvinger-sadnes/93995973/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087919+00:00"
       },
       {
         "id": "production-double_chance-1513649:Draw/Away",
@@ -5209,11 +5209,11 @@
         "selected": true,
         "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
         "probability_detail": "Επιτυχία 92.6% · αποτυχία 7.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kouresare-levadia-talin/93996371/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088021+00:00"
       },
       {
         "id": "production-double_chance-1513653:Home/Draw",
@@ -5233,11 +5233,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 90.9% · αποτυχία 9.1%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/paide-linameskod-trans-narva/93696423/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088053+00:00"
       },
       {
         "id": "production-double_chance-1593335:Home/Draw",
@@ -5257,11 +5257,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 90.8% · αποτυχία 9.2%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/panathinaikos-asteras-tripolis/92844932/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088231+00:00"
       },
       {
         "id": "production-double_chance-1494782:Home/Draw",
@@ -5281,11 +5281,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 87.3% · αποτυχία 12.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/molde-start/92098119/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087775+00:00"
       },
       {
         "id": "production-double_chance-1562672:Home/Draw",
@@ -5305,11 +5305,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 87.2% · αποτυχία 12.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/viktoria-plzen-b-aritma-pragas/92841216/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088087+00:00"
       },
       {
         "id": "production-double_chance-1511427:Draw/Away",
@@ -5329,11 +5329,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 84.8% · αποτυχία 15.2%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/astrio-dalstorp/93996192/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087970+00:00"
       },
       {
         "id": "production-double_chance-1608329:Home/Draw",
@@ -5353,11 +5353,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 83.9% · αποτυχία 16.1%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/ospitaleto-pergoletese/92996316/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088311+00:00"
       },
       {
         "id": "production-double_chance-1513651:Home/Away",
@@ -5377,11 +5377,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 83.2% · αποτυχία 16.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/flora-talin-tameka-tartou/93646782/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088036+00:00"
       },
       {
         "id": "production-double_chance-1494785:Home/Draw",
@@ -5401,11 +5401,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Επιτυχία 82.2% · αποτυχία 17.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/tromso-kfum-oslo/92096976/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087865+00:00"
       },
       {
         "id": "production-double_chance-1626545:Home/Draw",
@@ -5425,11 +5425,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 78.1% · αποτυχία 21.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/trastevere-sarabas-ogliastra/93996462/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088397+00:00"
       },
       {
         "id": "production-double_chance-1608321:Home/Draw",
@@ -5449,11 +5449,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 78.0% · αποτυχία 22.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/albinolefe-novara/93000656/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088296+00:00"
       },
       {
         "id": "production-double_chance-1495990:Home/Away",
@@ -5473,11 +5473,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.9% · αποτυχία 22.1%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/stromsgodset-xaougesoud/93996187/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087954+00:00"
       },
       {
         "id": "production-double_chance-1591345:Home/Away",
@@ -5497,11 +5497,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.7% · αποτυχία 22.3%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kastamonispor-isparta-32-spor/93996384/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088182+00:00"
       },
       {
         "id": "production-double_chance-1495983:Home/Away",
@@ -5521,11 +5521,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.4% · αποτυχία 22.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/asane-stabaek/93995994/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087901+00:00"
       },
       {
         "id": "production-double_chance-1601914:Draw/Away",
@@ -5545,11 +5545,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.1% · αποτυχία 22.9%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/imisli-fk-touran/93996211/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088280+00:00"
       },
       {
         "id": "production-double_chance-1511432:Home/Away",
@@ -5569,11 +5569,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.0% · αποτυχία 23.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/torslada-onsala-bk/93996105/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088004+00:00"
       },
       {
         "id": "production-double_chance-1511429:Home/Away",
@@ -5593,11 +5593,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 76.6% · αποτυχία 23.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/estrafors-ladveter-is/93995886/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087987+00:00"
       },
       {
         "id": "production-double_chance-1494784:Home/Away",
@@ -5617,11 +5617,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 76.4% · αποτυχία 23.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sarpsborg-rozenborg/92096777/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.087843+00:00"
       },
       {
         "id": "production-double_chance-1591645:Home/Away",
@@ -5641,11 +5641,347 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 75.7% · αποτυχία 24.3%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kirklarelispor-ankara-demirspor/93996163/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088198+00:00"
+      },
+      {
+        "id": "production-double_chance-1555180:Home/Draw",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Hapoel Kfar Shalem - Hapoel Acre",
+        "selection": "Home/Draw",
+        "odds": 1.11,
+        "probability": 0.8767666280444965,
+        "market_probability": null,
+        "break_even_probability": 0.9009009009009008,
+        "risk_probability": 0.12323337195550355,
+        "edge": -0.02413427285640435,
+        "band": "Grade A · Κύρια πρόβλεψη",
+        "decision": "selected",
+        "selected": true,
+        "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
+        "probability_detail": "Επιτυχία 87.7% · αποτυχία 12.3%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-kfar-salem-xapoel-akre/94048215/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1565276:Home/Draw",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T15:00:00+00:00",
+        "match": "Universitatea Cluj - Arges Pitesti",
+        "selection": "Home/Draw",
+        "odds": 1.21,
+        "probability": 0.8649982884713744,
+        "market_probability": null,
+        "break_even_probability": 0.8264462809917356,
+        "risk_probability": 0.1350017115286256,
+        "edge": 0.03855200747963883,
+        "band": "Grade A · Κύρια πρόβλεψη",
+        "decision": "selected",
+        "selected": true,
+        "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
+        "probability_detail": "Επιτυχία 86.5% · αποτυχία 13.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ouniversitatea-klouz-artzes-pitesti/93165856/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1621362:Home/Draw",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:30:00+00:00",
+        "match": "Hapoel Bnei Musmus - Hapoel Ironi Arraba",
+        "selection": "Home/Draw",
+        "odds": 1.11,
+        "probability": 0.8539987813101666,
+        "market_probability": null,
+        "break_even_probability": 0.9009009009009008,
+        "risk_probability": 0.1460012186898334,
+        "edge": -0.046902119590734204,
+        "band": "Grade B · Υψηλή πιθανότητα",
+        "decision": "eligible_not_selected",
+        "selected": false,
+        "rejection_reason": "Εκτός ημερήσιου ορίου",
+        "probability_detail": "Επιτυχία 85.4% · αποτυχία 14.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-bnei-mousmous-xapoel-ironi-araba/94048198/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1519666:Draw/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "FC Tallinn - Viimsi",
+        "selection": "Draw/Away",
+        "odds": 1.15,
+        "probability": 0.8235375904323801,
+        "market_probability": null,
+        "break_even_probability": 0.8695652173913044,
+        "risk_probability": 0.17646240956761994,
+        "edge": -0.04602762695892437,
+        "band": "Grade A · Υψηλή πιθανότητα",
+        "decision": "eligible_not_selected",
+        "selected": false,
+        "rejection_reason": "Εκτός ημερήσιου ορίου",
+        "probability_detail": "Επιτυχία 82.4% · αποτυχία 17.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/fc-talin-viimsi-jk/93894785/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1549673:Home/Draw",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T19:00:00+00:00",
+        "match": "Real Santander - Leones FC",
+        "selection": "Home/Draw",
+        "odds": 1.25,
+        "probability": 0.7635953530220684,
+        "market_probability": null,
+        "break_even_probability": 0.8,
+        "risk_probability": 0.23640464697793162,
+        "edge": -0.036404646977931665,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 76.4% · αποτυχία 23.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/real-sadader-leones/92999412/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1550154:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:45:00+00:00",
+        "match": "Parma - Torino",
+        "selection": "Home/Away",
+        "odds": 1.35,
+        "probability": 0.7551247717507548,
+        "market_probability": null,
+        "break_even_probability": 0.7407407407407407,
+        "risk_probability": 0.24487522824924524,
+        "edge": 0.014384031010014064,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 75.5% · αποτυχία 24.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/parma-torino/92891411/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1555181:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Hapoel Ra'anana - Bnei Yehuda",
+        "selection": "Home/Away",
+        "odds": 1.22,
+        "probability": 0.7547622655971326,
+        "market_probability": null,
+        "break_even_probability": 0.819672131147541,
+        "risk_probability": 0.24523773440286745,
+        "edge": -0.06490986555040845,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 75.5% · αποτυχία 24.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-ranana-bnei-giexouda/94048210/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1612259:Home/Draw",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:00:00+00:00",
+        "match": "El Gouna FC - Smouha SC",
+        "selection": "Home/Draw",
+        "odds": 1.6,
+        "probability": 0.7531189330274348,
+        "market_probability": null,
+        "break_even_probability": 0.625,
+        "risk_probability": 0.24688106697256518,
+        "edge": 0.12811893302743482,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 75.3% · αποτυχία 24.7%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/el-gouna-smouxa/94048096/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1494299:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T17:00:00+00:00",
+        "match": "Degerfors IF - Kalmar FF",
+        "selection": "Home/Away",
+        "odds": 1.32,
+        "probability": 0.7464077259402909,
+        "market_probability": null,
+        "break_even_probability": 0.7575757575757576,
+        "risk_probability": 0.2535922740597091,
+        "edge": -0.011168031635466646,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 74.6% · αποτυχία 25.4%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/degerfors-kalmar/92153144/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1608327:Draw/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:30:00+00:00",
+        "match": "Giana Erminio - Union Brescia",
+        "selection": "Draw/Away",
+        "odds": 1.16,
+        "probability": 0.7449835878796738,
+        "market_probability": null,
+        "break_even_probability": 0.8620689655172414,
+        "risk_probability": 0.2550164121203262,
+        "edge": -0.11708537763756766,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 74.5% · αποτυχία 25.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/tziana-erminio-ounion-bresia/92996318/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1604027:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T15:05:00+00:00",
+        "match": "Al Zulfi - Al Ula",
+        "selection": "Home/Away",
+        "odds": 1.27,
+        "probability": 0.7405813797011864,
+        "market_probability": null,
+        "break_even_probability": 0.7874015748031495,
+        "risk_probability": 0.2594186202988136,
+        "edge": -0.046820195101963114,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 74.1% · αποτυχία 25.9%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/al-zoulfi-al-oula/93894782/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1646111:Draw/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:00:00+00:00",
+        "match": "Lugano - Canuelas",
+        "selection": "Draw/Away",
+        "odds": 1.28,
+        "probability": 0.7393307649460297,
+        "market_probability": null,
+        "break_even_probability": 0.78125,
+        "risk_probability": 0.2606692350539703,
+        "edge": -0.04191923505397033,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 73.9% · αποτυχία 26.1%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ca-lougano-kanouelas/94097993/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1645499:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:00:00+00:00",
+        "match": "RC Arba - WA Mostaganem",
+        "selection": "Home/Away",
+        "odds": 1.26,
+        "probability": 0.7325538303517161,
+        "market_probability": null,
+        "break_even_probability": 0.7936507936507936,
+        "risk_probability": 0.26744616964828394,
+        "edge": -0.061096963299077545,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 73.3% · αποτυχία 26.7%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/arba-wa-mostaganem/94048115/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-double_chance-1621642:Home/Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Kfar Saba 1928 - Hapoel Ramat HaSharon",
+        "selection": "Home/Away",
+        "odds": 1.27,
+        "probability": 0.7254988798201707,
+        "market_probability": null,
+        "break_even_probability": 0.7874015748031495,
+        "risk_probability": 0.2745011201798293,
+        "edge": -0.061902694982978845,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 72.5% · αποτυχία 27.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/kfar-saba-ramat-xasaron/94048209/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
       }
     ],
     "draw_no_bet": [
@@ -9315,11 +9651,11 @@
         "selected": true,
         "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
         "probability_detail": "Νίκη 79.1% · επιστροφή 14.1% · ήττα 6.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kongsvinger-sadnes/93995973/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088517+00:00"
       },
       {
         "id": "production-draw_no_bet-1513649:Away",
@@ -9339,11 +9675,11 @@
         "selected": true,
         "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
         "probability_detail": "Νίκη 81.1% · επιστροφή 11.4% · ήττα 7.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kouresare-levadia-talin/93996371/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088600+00:00"
       },
       {
         "id": "production-draw_no_bet-1513653:Home",
@@ -9363,11 +9699,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Νίκη 77.2% · επιστροφή 13.7% · ήττα 9.1%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/paide-linameskod-trans-narva/93696423/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088628+00:00"
       },
       {
         "id": "production-draw_no_bet-1593335:Home",
@@ -9387,11 +9723,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Νίκη 71.4% · επιστροφή 19.3% · ήττα 9.2%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/panathinaikos-asteras-tripolis/92844932/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088834+00:00"
       },
       {
         "id": "production-draw_no_bet-1494782:Home",
@@ -9411,11 +9747,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Νίκη 67.7% · επιστροφή 19.6% · ήττα 12.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/molde-start/92098119/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088444+00:00"
       },
       {
         "id": "production-draw_no_bet-1562672:Home",
@@ -9435,11 +9771,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Νίκη 65.9% · επιστροφή 21.2% · ήττα 12.8%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/viktoria-plzen-b-aritma-pragas/92841216/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088655+00:00"
       },
       {
         "id": "production-draw_no_bet-1511427:Away",
@@ -9459,11 +9795,11 @@
         "selected": false,
         "rejection_reason": "Εκτός ημερήσιου ορίου",
         "probability_detail": "Νίκη 65.8% · επιστροφή 19.0% · ήττα 15.2%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/astrio-dalstorp/93996192/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088559+00:00"
       },
       {
         "id": "production-draw_no_bet-1608329:Home",
@@ -9483,11 +9819,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 56.4% · επιστροφή 27.5% · ήττα 16.1%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/ospitaleto-pergoletese/92996316/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088905+00:00"
       },
       {
         "id": "production-draw_no_bet-1513651:Home",
@@ -9507,11 +9843,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 64.5% · επιστροφή 16.8% · ήττα 18.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/flora-talin-tameka-tartou/93646782/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088614+00:00"
       },
       {
         "id": "production-draw_no_bet-1494785:Home",
@@ -9531,11 +9867,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 61.2% · επιστροφή 21.0% · ήττα 17.8%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/tromso-kfum-oslo/92096976/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088473+00:00"
       },
       {
         "id": "production-draw_no_bet-1626545:Home",
@@ -9555,11 +9891,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 52.3% · επιστροφή 25.8% · ήττα 21.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/trastevere-sarabas-ogliastra/93996462/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088977+00:00"
       },
       {
         "id": "production-draw_no_bet-1601914:Away",
@@ -9579,11 +9915,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 52.5% · επιστροφή 24.5% · ήττα 22.9%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/imisli-fk-touran/93996211/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088876+00:00"
       },
       {
         "id": "production-draw_no_bet-1608321:Home",
@@ -9603,11 +9939,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 47.8% · επιστροφή 30.2% · ήττα 22.0%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/albinolefe-novara/93000656/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088891+00:00"
       },
       {
         "id": "production-draw_no_bet-1495983:Away",
@@ -9627,11 +9963,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 52.4% · επιστροφή 22.6% · ήττα 25.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/asane-stabaek/93995994/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088503+00:00"
       },
       {
         "id": "production-draw_no_bet-1601910:Away",
@@ -9651,11 +9987,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 48.3% · επιστροφή 26.7% · ήττα 25.0%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kapaz-zira/93996072/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088862+00:00"
       },
       {
         "id": "production-draw_no_bet-1591345:Away",
@@ -9675,11 +10011,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 49.5% · επιστροφή 22.3% · ήττα 28.2%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kastamonispor-isparta-32-spor/93996384/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088792+00:00"
       },
       {
         "id": "production-draw_no_bet-1495990:Home",
@@ -9699,11 +10035,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 49.4% · επιστροφή 22.1% · ήττα 28.5%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/stromsgodset-xaougesoud/93996187/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088545+00:00"
       },
       {
         "id": "production-draw_no_bet-1621639:Away",
@@ -9747,11 +10083,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 43.5% · επιστροφή 24.3% · ήττα 32.2%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kirklarelispor-ankara-demirspor/93996163/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088806+00:00"
       },
       {
         "id": "production-draw_no_bet-1511432:Home",
@@ -9771,11 +10107,347 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 43.5% · επιστροφή 23.0% · ήττα 33.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/torslada-onsala-bk/93996105/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-18T06:53:02.211896+00:00"
+        "updated_at": "2026-10-19T05:04:08.088586+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1555180:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Hapoel Kfar Shalem - Hapoel Acre",
+        "selection": "DNB · Χάποελ Κφαρ Σαλέμ",
+        "odds": 1.16,
+        "probability": 0.8451733394805536,
+        "market_probability": 0.7913669064748202,
+        "break_even_probability": 0.8620689655172414,
+        "risk_probability": 0.15482666051944638,
+        "edge": -0.016895626036687816,
+        "band": "Grade A · Κύρια πρόβλεψη",
+        "decision": "selected",
+        "selected": true,
+        "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
+        "probability_detail": "Νίκη 67.3% · επιστροφή 20.4% · ήττα 12.3%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-kfar-salem-xapoel-akre/94048215/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1565276:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T15:00:00+00:00",
+        "match": "Universitatea Cluj - Arges Pitesti",
+        "selection": "DNB · Ουνιβερσιτάτεα Κλουζ",
+        "odds": 1.3,
+        "probability": 0.8202039654158034,
+        "market_probability": 0.717391304347826,
+        "break_even_probability": 0.7692307692307692,
+        "risk_probability": 0.17979603458419657,
+        "edge": 0.050973196185034264,
+        "band": "Grade A · Κύρια πρόβλεψη",
+        "decision": "selected",
+        "selected": true,
+        "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
+        "probability_detail": "Νίκη 61.6% · επιστροφή 24.9% · ήττα 13.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ouniversitatea-klouz-artzes-pitesti/93165856/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1621362:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:30:00+00:00",
+        "match": "Hapoel Bnei Musmus - Hapoel Ironi Arraba",
+        "selection": "DNB · Χάποελ Μπνέι Μούσμους",
+        "odds": 1.15,
+        "probability": 0.8094649086410963,
+        "market_probability": 0.7889908256880734,
+        "break_even_probability": 0.8695652173913044,
+        "risk_probability": 0.19053509135890367,
+        "edge": -0.06010030875020811,
+        "band": "Grade B · Υψηλή πιθανότητα",
+        "decision": "eligible_not_selected",
+        "selected": false,
+        "rejection_reason": "Εκτός ημερήσιου ορίου",
+        "probability_detail": "Νίκη 62.0% · επιστροφή 23.4% · ήττα 14.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-bnei-mousmous-xapoel-ironi-araba/94048198/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1519666:Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "FC Tallinn - Viimsi",
+        "selection": "DNB · Βίιμσι JK",
+        "odds": 1.21,
+        "probability": 0.7836595081216644,
+        "market_probability": 0.7484407484407485,
+        "break_even_probability": 0.8264462809917356,
+        "risk_probability": 0.2163404918783356,
+        "edge": -0.042786772870071155,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 63.9% · επιστροφή 18.4% · ήττα 17.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/fc-talin-viimsi-jk/93894785/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1549673:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T19:00:00+00:00",
+        "match": "Real Santander - Leones FC",
+        "selection": "DNB · Ρεάλ Σανταντέρ",
+        "odds": 1.44,
+        "probability": 0.6651616103815986,
+        "market_probability": 0.6390977443609022,
+        "break_even_probability": 0.6944444444444444,
+        "risk_probability": 0.3348383896184014,
+        "edge": -0.02928283406284582,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 47.0% · επιστροφή 29.4% · ήττα 23.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/real-sadader-leones/92999412/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1494299:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T17:00:00+00:00",
+        "match": "Degerfors IF - Kalmar FF",
+        "selection": "DNB · Ντέγκερφορς",
+        "odds": 2.07,
+        "probability": 0.6483335610351189,
+        "market_probability": 0.4509283819628647,
+        "break_even_probability": 0.48309178743961356,
+        "risk_probability": 0.35166643896488115,
+        "edge": 0.1652417735955053,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 48.4% · επιστροφή 25.4% · ήττα 26.2%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/degerfors-kalmar/92153144/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1612259:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:00:00+00:00",
+        "match": "El Gouna FC - Smouha SC",
+        "selection": "DNB · Ελ Γκούνα",
+        "odds": 2.27,
+        "probability": 0.6451003824355773,
+        "market_probability": 0.4088541666666667,
+        "break_even_probability": 0.44052863436123346,
+        "risk_probability": 0.3548996175644227,
+        "edge": 0.20457174807434386,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 44.9% · επιστροφή 30.4% · ήττα 24.7%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/el-gouna-smouxa/94048096/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1608327:Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:30:00+00:00",
+        "match": "Giana Erminio - Union Brescia",
+        "selection": "DNB · Ουνιόν Μπρέσια",
+        "odds": 1.23,
+        "probability": 0.642012174162197,
+        "market_probability": 0.7530120481927711,
+        "break_even_probability": 0.8130081300813008,
+        "risk_probability": 0.357987825837803,
+        "edge": -0.17099595591910377,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 45.7% · επιστροφή 28.8% · ήττα 25.5%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/tziana-erminio-ounion-bresia/92996318/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1646111:Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:00:00+00:00",
+        "match": "Lugano - Canuelas",
+        "selection": "DNB · Κανουέλας",
+        "odds": 1.53,
+        "probability": 0.6355978109931371,
+        "market_probability": 0.5920000000000001,
+        "break_even_probability": 0.6535947712418301,
+        "risk_probability": 0.36440218900686294,
+        "edge": -0.017996960248693017,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 45.5% · επιστροφή 28.5% · ήττα 26.1%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ca-lougano-kanouelas/94097993/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1645499:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T14:00:00+00:00",
+        "match": "RC Arba - WA Mostaganem",
+        "selection": "DNB · Άρμπα",
+        "odds": 1.27,
+        "probability": 0.615091530654213,
+        "market_probability": 0.7158836689038031,
+        "break_even_probability": 0.7874015748031495,
+        "risk_probability": 0.38490846934578704,
+        "edge": -0.17231004414893658,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 45.1% · επιστροφή 26.7% · ήττα 28.2%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/arba-wa-mostaganem/94048115/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1604027:Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T15:05:00+00:00",
+        "match": "Al Zulfi - Al Ula",
+        "selection": "DNB · Αλ Ουλά",
+        "odds": 1.33,
+        "probability": 0.6134730403226262,
+        "market_probability": 0.6928406466512702,
+        "break_even_probability": 0.7518796992481203,
+        "risk_probability": 0.3865269596773738,
+        "edge": -0.13840665892549409,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 45.4% · επιστροφή 25.9% · ήττα 28.6%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/al-zoulfi-al-oula/93894782/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1555181:Away",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Hapoel Ra'anana - Bnei Yehuda",
+        "selection": "DNB · Μπνέι Γιεχούντα",
+        "odds": 1.3,
+        "probability": 0.5633543310083311,
+        "market_probability": 0.7045454545454546,
+        "break_even_probability": 0.7692307692307692,
+        "risk_probability": 0.4366456689916689,
+        "edge": -0.20587643822243806,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 42.5% · επιστροφή 24.5% · ήττα 33.0%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-ranana-bnei-giexouda/94048210/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1550154:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T18:45:00+00:00",
+        "match": "Parma - Torino",
+        "selection": "DNB · Πάρμα",
+        "odds": 2.15,
+        "probability": 0.5382046247321615,
+        "market_probability": 0.43421052631578944,
+        "break_even_probability": 0.46511627906976744,
+        "risk_probability": 0.46179537526783854,
+        "edge": 0.07308834566239403,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 40.6% · επιστροφή 24.5% · ήττα 34.9%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/parma-torino/92891411/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1621642:Home",
+        "date": "2026-10-19",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-10-19T16:00:00+00:00",
+        "match": "Kfar Saba 1928 - Hapoel Ramat HaSharon",
+        "selection": "DNB · Κφαρ Σάμπα",
+        "odds": 2.32,
+        "probability": 0.5313463352785612,
+        "market_probability": 0.39267015706806285,
+        "break_even_probability": 0.4310344827586207,
+        "risk_probability": 0.46865366472143877,
+        "edge": 0.10031185251994051,
+        "band": "Grade B · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 38.5% · επιστροφή 27.5% · ήττα 34.0%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/kfar-saba-ramat-xasaron/94048209/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-10-19T05:06:58.253754+00:00"
       }
     ],
     "minutes_challenger": [
@@ -10386,10 +11058,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:42.784182+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93984545",
@@ -10404,10 +11076,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:42.122706+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92031239",
@@ -10422,10 +11094,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:25.115972+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93448057",
@@ -10440,10 +11112,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:39.109336+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93744123",
@@ -10458,10 +11130,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:40.768033+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92031232",
@@ -10476,10 +11148,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:24.462644+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92263658",
@@ -10494,10 +11166,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:29.843916+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92263659",
@@ -10512,10 +11184,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:30.507829+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-89890709",
@@ -10530,10 +11202,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:23.807604+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93448064",
@@ -10548,10 +11220,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 11/11",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:40.099202+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92031761",
@@ -10566,10 +11238,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:26.254510+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92032654",
@@ -10584,10 +11256,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:27.017458+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92031323",
@@ -10602,10 +11274,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:25.458815+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92560835",
@@ -10620,10 +11292,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:31.212422+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92263642",
@@ -10638,10 +11310,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:29.186711+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93448058",
@@ -10656,10 +11328,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/11",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:39.440256+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93744124",
@@ -10674,10 +11346,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:41.428811+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-93447702",
@@ -10692,10 +11364,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/11",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:38.774473+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92041990",
@@ -10710,10 +11382,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:28.525282+00:00"
       },
       {
         "id": "lab-minutes-2026-10-18-92039617",
@@ -10728,10 +11400,100 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
+        "result": "win",
+        "probability_detail": "Role sample 12/12",
+        "source": "Minutes multiseason LAB · reference Stoiximan odds",
+        "updated_at": "2026-10-19T05:01:27.865361+00:00"
+      },
+      {
+        "id": "lab-minutes-2026-10-19-93984548",
+        "date": "2026-10-19",
+        "model_version": "minutes-multiseason-challenger-v0.2-team-history",
+        "kickoff": "2026-10-19 23:30",
+        "match": "Μάσουκ Ρούνα - Ορένσε",
+        "selection": "U0.5 · 00:00–14:59",
+        "odds": 1.34,
+        "probability": 0.765151,
+        "risk_probability": 0.23484899999999997,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
         "result": "pending",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-18T04:59:01.251212+00:00"
+        "updated_at": "2026-10-19T05:01:42.971124+00:00"
+      },
+      {
+        "id": "lab-minutes-2026-10-19-93165856",
+        "date": "2026-10-19",
+        "model_version": "minutes-multiseason-challenger-v0.2-team-history",
+        "kickoff": "2026-10-19 18:00",
+        "match": "Ουνιβερσιτάτεα Κλουζ - Άρτζες Πιτέστι",
+        "selection": "U0.5 · 00:00–14:59",
+        "odds": 1.31,
+        "probability": 0.739315,
+        "risk_probability": 0.26068499999999994,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12",
+        "source": "Minutes multiseason LAB · reference Stoiximan odds",
+        "updated_at": "2026-10-19T05:01:42.971124+00:00"
+      },
+      {
+        "id": "lab-minutes-2026-10-19-92656774",
+        "date": "2026-10-19",
+        "model_version": "minutes-multiseason-challenger-v0.2-team-history",
+        "kickoff": "2026-10-19 20:00",
+        "match": "Βίσλα Πλοκ - Ραντόμιακ",
+        "selection": "U0.5 · 00:00–14:59",
+        "odds": 1.42,
+        "probability": 0.717592,
+        "risk_probability": 0.282408,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12",
+        "source": "Minutes multiseason LAB · reference Stoiximan odds",
+        "updated_at": "2026-10-19T05:01:42.971124+00:00"
+      },
+      {
+        "id": "lab-minutes-2026-10-19-93165864",
+        "date": "2026-10-19",
+        "model_version": "minutes-multiseason-challenger-v0.2-team-history",
+        "kickoff": "2026-10-19 21:00",
+        "match": "Βολουντάρι - FCSB",
+        "selection": "U0.5 · 00:00–14:59",
+        "odds": 1.42,
+        "probability": 0.712123,
+        "risk_probability": 0.28787700000000005,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12",
+        "source": "Minutes multiseason LAB · reference Stoiximan odds",
+        "updated_at": "2026-10-19T05:01:42.971124+00:00"
+      },
+      {
+        "id": "lab-minutes-2026-10-19-94001736",
+        "date": "2026-10-19",
+        "model_version": "minutes-multiseason-challenger-v0.2-team-history",
+        "kickoff": "2026-10-19 21:45",
+        "match": "Ροντέ - Μονπελιέ",
+        "selection": "U0.5 · 00:00–14:59",
+        "odds": 1.39,
+        "probability": 0.679326,
+        "risk_probability": 0.320674,
+        "band": "Grade C · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "Role sample 11/5",
+        "source": "Minutes multiseason LAB · reference Stoiximan odds",
+        "updated_at": "2026-10-19T05:01:42.971124+00:00"
       }
     ],
     "o05_challenger_accuracy": [
@@ -10748,12 +11510,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xaidouk-split-nk-varazdin/93163880/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726167+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1511705",
@@ -10768,12 +11530,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12 · ESS 11.7/11.7",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/deportes-sada-krous-adofagasta/93448058/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726119+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1492416",
@@ -10788,12 +11550,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/gremio-krouzeiro/93882941/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.725934+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1584437",
@@ -10808,12 +11570,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.3/11.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kotsaelispor-goztepe/89727209/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726421+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1494786",
@@ -10828,12 +11590,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/valerenga-bran/92098120/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726084+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1549038",
@@ -10848,12 +11610,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/soderiske-silkeborg/92884033/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726182+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1494785",
@@ -10868,12 +11630,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/tromso-kfum-oslo/92096976/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726067+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1570420",
@@ -10888,12 +11650,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/real-madritis-sevilli/91668512/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726389+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1494784",
@@ -10908,12 +11670,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.4/11.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sarpsborg-rozenborg/92096777/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726050+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1494303",
@@ -10928,12 +11690,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sirious-elfsborg/92098126/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726010+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1551356",
@@ -10948,12 +11710,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.4/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xvidovre-xilerod/92884078/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726215+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1553193",
@@ -10968,12 +11730,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/gornik-zabrze-piast-glivitse/92263642/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726231+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1553194",
@@ -10988,12 +11750,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/lex-poznan-korona-kielse/92263659/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726247+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1494783",
@@ -11008,12 +11770,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.1",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sadefiord-lilestrom/92097055/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726032+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1601557",
@@ -11028,12 +11790,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/giouve-stabia-soudirol/92996778/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726484+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1593335",
@@ -11048,12 +11810,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.4/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/panathinaikos-asteras-tripolis/92844932/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726452+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1510474",
@@ -11068,12 +11830,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.8/11.7",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/bousan-park-tzeonam-dragons/92041990/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726103+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1561946",
@@ -11088,12 +11850,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/stourm-grats-gratser-ak/92265455/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726294+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1569972",
@@ -11108,12 +11870,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/8.4",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/theouta-oviedo/89737793/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726326+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-18-1550147",
@@ -11128,12 +11890,132 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.5/11.5",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/milan-atalada/92891305/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T06:42:13.985240+00:00"
+        "updated_at": "2026-10-19T05:02:43.726199+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1494299",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T20:00:00+03:00",
+        "match": "Ντέγκερφορς - Κάλμαρ",
+        "selection": "Over 0.5",
+        "odds": 1.07,
+        "probability": 0.9149835884848196,
+        "risk_probability": 0.08501641151518036,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.5/11.7",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/degerfors-kalmar/92153144/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1550154",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T21:45:00+03:00",
+        "match": "Πάρμα - Τορίνο",
+        "selection": "Over 0.5",
+        "odds": 1.11,
+        "probability": 0.9136688174913555,
+        "risk_probability": 0.08633118250864447,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.4/11.5",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/parma-torino/92891411/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1565276",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T18:00:00+03:00",
+        "match": "Ουνιβερσιτάτεα Κλουζ - Άρτζες Πιτέστι",
+        "selection": "Over 0.5",
+        "odds": 1.08,
+        "probability": 0.9130833134177633,
+        "risk_probability": 0.08691668658223672,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ouniversitatea-klouz-artzes-pitesti/93165856/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1553198",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T20:00:00+03:00",
+        "match": "Βίσλα Πλοκ - Ραντόμιακ",
+        "selection": "Over 0.5",
+        "odds": 1.04,
+        "probability": 0.9165741017976895,
+        "risk_probability": 0.0834258982023105,
+        "band": "Grade A · 1.06+ accuracy · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.4/11.5",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/visla-plok-radomiak/92656774/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1569971",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T21:30:00+03:00",
+        "match": "Θέλτα Β' - Τενερίφη",
+        "selection": "Over 0.5",
+        "odds": 1.08,
+        "probability": 0.9113811921896791,
+        "risk_probability": 0.08861880781032094,
+        "band": "Grade C · 1.06+ accuracy · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "Role sample 5/12 · ESS 5.0/8.2",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/thelta-b-tenerifi/89737680/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-19-1552503",
+        "date": "2026-10-19",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-19T21:45:00+03:00",
+        "match": "Ροντέ - Μονπελιέ",
+        "selection": "Over 0.5",
+        "odds": 1.04,
+        "probability": 0.9086652979289206,
+        "risk_probability": 0.09133470207107941,
+        "band": "Grade A · 1.06+ accuracy · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.4/11.4",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/rode-monpelie/94001736/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:46.154322+00:00"
       }
     ],
     "corners_challenger_over": [
@@ -11150,12 +12032,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 12.27 · required 72.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/gornik-zabrze-piast-glivitse/92263642/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:51.785453+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1494785",
@@ -11170,12 +12052,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.41 · required 79.9%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/tromso-kfum-oslo/92096976/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:48.825432+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1511707",
@@ -11210,12 +12092,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.49 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/gremio-krouzeiro/93882941/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:47.513538+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1593335",
@@ -11230,12 +12112,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.89 · required 79.3%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/panathinaikos-asteras-tripolis/92844932/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:56.407856+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1639852",
@@ -11250,12 +12132,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.77 · required 75.5%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/klab-leones-del-norte-emelek/93984546/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:57.737512+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1494786",
@@ -11270,12 +12152,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.96 · required 78.8%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/valerenga-bran/92098120/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:49.145908+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1561946",
@@ -11290,12 +12172,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 10.77 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/stourm-grats-gratser-ak/92265455/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:53.108310+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1560045",
@@ -11310,12 +12192,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.74 · required 76.5%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/banik-ostrava-sparta-pragas/92040614/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:52.775766+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1494784",
@@ -11330,12 +12212,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.32 · required 72.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sarpsborg-rozenborg/92096777/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:48.494418+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1593332",
@@ -11350,12 +12232,12 @@
         "band": "Grade D · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.79 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kalamata-ofi/92844880/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:56.078966+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1569975",
@@ -11370,12 +12252,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.40 · required 73.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xirona-andora/89737827/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:54.098461+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1569972",
@@ -11390,12 +12272,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.80 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/theouta-oviedo/89737793/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:53.767882+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1494783",
@@ -11410,12 +12292,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.96 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sadefiord-lilestrom/92097055/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:48.168262+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1553194",
@@ -11430,12 +12312,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.03 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/lex-poznan-korona-kielse/92263659/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:52.115793+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1601561",
@@ -11450,12 +12332,52 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.88 · required 71.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sabdoria-ss-arezo/92997007/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:57.405829+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1565276",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T18:00:00+03:00",
+        "match": "Universitatea Cluj - Arges Pitesti",
+        "selection": "Over 8.5",
+        "odds": 1.47,
+        "probability": 0.7003688912692846,
+        "risk_probability": 0.2996311087307154,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 10.76 · required 71.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/ouniversitatea-klouz-artzes-pitesti/93165856/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1494299",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T20:00:00+03:00",
+        "match": "Degerfors IF - Kalmar FF",
+        "selection": "Over 8.5",
+        "odds": 1.45,
+        "probability": 0.6590408530791207,
+        "risk_probability": 0.34095914692087925,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 10.32 · required 72.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/degerfors-kalmar/92153144/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
       }
     ],
     "corners_challenger_under": [
@@ -11472,12 +12394,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.24 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/notigxam-forest-arsenal/92788260/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:52.444805+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1550147",
@@ -11492,12 +12414,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.33 · required 74.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/milan-atalada/92891305/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:51.125092+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1549038",
@@ -11512,12 +12434,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.51 · required 76.5%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/soderiske-silkeborg/92884033/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:50.792970+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1584041",
@@ -11532,12 +12454,12 @@
         "band": "Grade D · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.48 · required 77.6%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/mepen-xavelse/89609508/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:55.418020+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1570418",
@@ -11552,12 +12474,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.61 · required 78.2%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/malaga-real-sosiedad/91668516/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:54.758595+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1548542",
@@ -11572,12 +12494,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.91 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xaidouk-split-nk-varazdin/93163880/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:50.459315+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1601557",
@@ -11592,12 +12514,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.70 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/giouve-stabia-soudirol/92996778/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:57.071559+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1569980",
@@ -11612,12 +12534,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.54 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/vagiadolid-eldense/89737711/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:54.428679+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1494303",
@@ -11632,12 +12554,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.96 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/sirious-elfsborg/92098126/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:47.840673+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1593337",
@@ -11652,12 +12574,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.61 · required 74.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/paok-iraklis/92844956/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:56.737079+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1570420",
@@ -11672,12 +12594,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 10.11 · required 76.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/real-madritis-sevilli/91668512/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:55.089753+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1511705",
@@ -11752,12 +12674,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.66 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kotsaelispor-goztepe/89727209/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:55.749182+00:00"
       },
       {
         "id": "lab-corners-2026-10-18-1569970",
@@ -11772,12 +12694,92 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.54 · required 71.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/bourgos-sabadel/89737778/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-18T07:07:48.993031+00:00"
+        "updated_at": "2026-10-19T05:02:53.439100+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1553198",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T20:00:00+03:00",
+        "match": "Wisla Plock - Radomiak Radom",
+        "selection": "Under 12.5",
+        "odds": 1.31,
+        "probability": 0.6931056332426943,
+        "risk_probability": 0.30689436675730575,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 10.64 · required 79.3%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/visla-plok-radomiak/92656774/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1552503",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T21:45:00+03:00",
+        "match": "Rodez - Montpellier",
+        "selection": "Under 11.5",
+        "odds": 1.36,
+        "probability": 0.6821259457909692,
+        "risk_probability": 0.3178740542090308,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 9.86 · required 76.5%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/rode-monpelie/94001736/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1550154",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T21:45:00+03:00",
+        "match": "Parma - Torino",
+        "selection": "Under 9.5",
+        "odds": 1.52,
+        "probability": 0.6479846566881586,
+        "risk_probability": 0.35201534331184137,
+        "band": "Grade A · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "xCorners 8.20 · required 70.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/parma-torino/92891411/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-19-1569971",
+        "date": "2026-10-19",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-19T21:30:00+03:00",
+        "match": "Celta de Vigo II - Tenerife",
+        "selection": "Under 9.5",
+        "odds": 1.5,
+        "probability": 0.618444894773112,
+        "risk_probability": 0.38155510522688796,
+        "band": "Grade C · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "xCorners 8.17 · required 70.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/thelta-b-tenerifi/89737680/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-19T05:02:58.435892+00:00"
       }
     ]
   },
@@ -11796,103 +12798,103 @@
     },
     "over_0_5": {
       "model_version": "football-api-poisson-v1.3-two-tier",
-      "scored": 405,
+      "scored": 406,
       "selected": 7,
-      "settled_scores": 35,
-      "model_brier": 0.0781305592788164,
-      "market_brier": 0.08277450627715162,
-      "model_logloss": 0.2922600831245727,
-      "market_logloss": 0.31257593370798437,
-      "settled_picks": 6,
-      "pick_roi": 0.10666666666666673
+      "settled_scores": 36,
+      "model_brier": 0.0762374192396515,
+      "market_brier": 0.08109138062494312,
+      "model_logloss": 0.2870649572727156,
+      "market_logloss": 0.30837293964932155,
+      "settled_picks": 7,
+      "pick_roi": 0.10857142857142864
     },
     "double_chance": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
-      "scored": 249,
-      "selected": 11,
-      "settled_scores": 176,
-      "model_brier": 0.16783166893382415,
+      "scored": 271,
+      "selected": 13,
+      "settled_scores": 202,
+      "model_brier": 0.1626134520034296,
       "market_brier": 0.17448739092838075,
-      "model_logloss": 0.5157191429600907,
+      "model_logloss": 0.502747127685151,
       "market_logloss": 0.5359458439078859,
-      "settled_picks": 9,
-      "pick_roi": -0.11666666666666664
+      "settled_picks": 11,
+      "pick_roi": -0.07909090909090906
     },
     "draw_no_bet": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
-      "scored": 249,
-      "selected": 8,
-      "settled_scores": 120,
-      "model_brier": 0.19271218224984737,
-      "market_brier": 0.19606468335106902,
-      "model_logloss": 0.5700078930386663,
-      "market_logloss": 0.5813840191976192,
-      "settled_picks": 6,
-      "pick_roi": -0.10499999999999998
+      "scored": 271,
+      "selected": 10,
+      "settled_scores": 141,
+      "model_brier": 0.18824435512853216,
+      "market_brier": 0.19149033083338615,
+      "model_logloss": 0.5581947555585723,
+      "market_logloss": 0.5699047403352071,
+      "settled_picks": 8,
+      "pick_roi": -0.05124999999999999
     },
     "minutes_challenger": {
       "model_version": "minutes-multiseason-challenger-v0.2-team-history",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 82,
-      "qualified": 41,
-      "selected": 41,
-      "settled_scores": 52,
-      "model_brier": 0.20313093283486536,
+      "scored": 87,
+      "qualified": 45,
+      "selected": 45,
+      "settled_scores": 82,
+      "model_brier": 0.18960062008480488,
       "market_brier": null,
-      "model_logloss": 0.6007393115289408,
+      "model_logloss": 0.5692995690374532,
       "market_logloss": null,
-      "calibration_gap": -0.000199557692307617,
-      "settled_picks": 21,
-      "pick_roi": 0.01428571428571432
+      "calibration_gap": -0.022602121951219578,
+      "settled_picks": 41,
+      "pick_roi": 0.038292682926829295
     },
     "o05_challenger_accuracy": {
       "model_version": "o05-api-first-multiseason-v0.3-accuracy-106 · 1.06+ accuracy",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 33,
-      "qualified": 26,
-      "selected": 4,
-      "settled_scores": 0,
-      "model_brier": null,
+      "scored": 39,
+      "qualified": 31,
+      "selected": 7,
+      "settled_scores": 33,
+      "model_brier": 0.0585624368514941,
       "market_brier": null,
-      "model_logloss": null,
+      "model_logloss": 0.2361687097635695,
       "market_logloss": null,
-      "calibration_gap": null,
-      "settled_picks": 0,
-      "pick_roi": null
+      "calibration_gap": -0.024229955102426426,
+      "settled_picks": 4,
+      "pick_roi": -0.20249999999999996
     },
     "corners_challenger_over": {
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · over",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 16,
+      "scored": 18,
       "qualified": 2,
-      "selected": 2,
-      "settled_scores": 0,
-      "model_brier": null,
+      "selected": 4,
+      "settled_scores": 15,
+      "model_brier": 0.20154251869473913,
       "market_brier": null,
-      "model_logloss": null,
+      "model_logloss": 0.5923405177654949,
       "market_logloss": null,
-      "calibration_gap": null,
-      "settled_picks": 0,
-      "pick_roi": null
+      "calibration_gap": -0.0558861518091992,
+      "settled_picks": 2,
+      "pick_roi": -0.28
     },
     "corners_challenger_under": {
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · under",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 16,
+      "scored": 20,
       "qualified": 1,
-      "selected": 2,
-      "settled_scores": 0,
-      "model_brier": null,
+      "selected": 4,
+      "settled_scores": 13,
+      "model_brier": 0.20861344697962234,
       "market_brier": null,
-      "model_logloss": null,
+      "model_logloss": 0.6091630344402236,
       "market_logloss": null,
-      "calibration_gap": null,
-      "settled_picks": 0,
-      "pick_roi": null
+      "calibration_gap": -0.011867043436848967,
+      "settled_picks": 2,
+      "pick_roi": -0.30000000000000004
     }
   }
 }
