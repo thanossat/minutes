@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:53:22.079691+00:00",
+  "generated_at": "2026-10-20T06:14:56.982778+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -13182,6 +13182,86 @@
         "updated_at": "2026-10-20T05:40:56.037373+00:00"
       },
       {
+        "id": "lab-o05-106_plus-2026-10-20-1564377",
+        "date": "2026-10-20",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Στιβενέιτζ - Πλίμουθ",
+        "selection": "Over 0.5",
+        "odds": 1.06,
+        "probability": 0.9249910261489405,
+        "risk_probability": 0.07500897385105953,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.5/11.5",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/stiveneitz-plimouth/94077349/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-20-1564370",
+        "date": "2026-10-20",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Μπέρτον - Μπράντφορντ Σίτι",
+        "selection": "Over 0.5",
+        "odds": 1.07,
+        "probability": 0.9185007421530543,
+        "risk_probability": 0.08149925784694567,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.4/11.5",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/berton-bradford-siti/94077326/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-20-1563817",
+        "date": "2026-10-20",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Τσέλτεναμ - Φλίτγουντ",
+        "selection": "Over 0.5",
+        "odds": 1.06,
+        "probability": 0.9173035398297076,
+        "risk_probability": 0.08269646017029242,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.5/11.4",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/tseltenam-flitgoud/94098427/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
+      },
+      {
+        "id": "lab-o05-106_plus-2026-10-20-1563821",
+        "date": "2026-10-20",
+        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
+        "kickoff": "2026-10-20T22:00:00+03:00",
+        "match": "Τζίλιγχαμ - Πορτ Βέιλ",
+        "selection": "Over 0.5",
+        "odds": 1.08,
+        "probability": 0.9101210497036988,
+        "risk_probability": 0.08987895029630122,
+        "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "Role sample 12/12 · ESS 11.5/8.1",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/tziligxam-port-veil/94098440/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
+      },
+      {
         "id": "lab-o05-106_plus-2026-10-20-1637349",
         "date": "2026-10-20",
         "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
@@ -13199,7 +13279,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1637351",
@@ -13219,7 +13299,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635700",
@@ -13239,7 +13319,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1603055",
@@ -13259,7 +13339,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635719",
@@ -13279,7 +13359,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635738",
@@ -13299,7 +13379,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1562084",
@@ -13319,7 +13399,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1603061",
@@ -13339,7 +13419,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635688",
@@ -13359,7 +13439,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1602512",
@@ -13379,7 +13459,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635661",
@@ -13399,7 +13479,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1497724",
@@ -13419,7 +13499,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1598716",
@@ -13439,47 +13519,47 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1564371",
         "date": "2026-10-20",
         "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
         "kickoff": "2026-10-20T21:45:00+03:00",
-        "match": "Cambridge United - Wycombe",
+        "match": "Κέμπριτζ - Γουίκομπ",
         "selection": "Over 0.5",
         "odds": 1.05,
-        "probability": 0.9353686146007854,
-        "risk_probability": 0.06463138539921465,
+        "probability": 0.9353686187256479,
+        "risk_probability": 0.06463138127435208,
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
         "result": "pending",
         "probability_detail": "Role sample 12/12 · ESS 8.5/11.5",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/kebritz-gouikob/94077508/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1564373",
         "date": "2026-10-20",
         "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
         "kickoff": "2026-10-20T21:45:00+03:00",
-        "match": "Huddersfield - Peterborough",
+        "match": "Χάντερσφιλντ - Πιτέρμπορο",
         "selection": "Over 0.5",
-        "odds": 1.03,
-        "probability": 0.9353354902242587,
-        "risk_probability": 0.06466450977574134,
+        "odds": 1.025,
+        "probability": 0.9353354953300104,
+        "risk_probability": 0.06466450466998963,
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
         "result": "pending",
         "probability_detail": "Role sample 12/12 · ESS 11.4/11.4",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/xadersfild-piterboro/94077314/",
+        "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-20-1635617",
@@ -13499,87 +13579,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
-      },
-      {
-        "id": "lab-o05-106_plus-2026-10-20-1596490",
-        "date": "2026-10-20",
-        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
-        "kickoff": "2026-10-20T21:45:00+03:00",
-        "match": "Guiseley AFC - Cleethorpes Town",
-        "selection": "Over 0.5",
-        "odds": 1.05,
-        "probability": 0.9308452823131079,
-        "risk_probability": 0.06915471768689208,
-        "band": "Grade A · 1.06+ accuracy · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "Role sample 12/12 · ESS 11.4/11.5",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
-      },
-      {
-        "id": "lab-o05-106_plus-2026-10-20-1603059",
-        "date": "2026-10-20",
-        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
-        "kickoff": "2026-10-20T21:00:00+03:00",
-        "match": "Al-Nassr - NEOM",
-        "selection": "Over 0.5",
-        "odds": 1.03,
-        "probability": 0.9299656551353799,
-        "risk_probability": 0.07003434486462012,
-        "band": "Grade A · 1.06+ accuracy · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "Role sample 12/12 · ESS 11.5/11.4",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
-      },
-      {
-        "id": "lab-o05-106_plus-2026-10-20-1598715",
-        "date": "2026-10-20",
-        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
-        "kickoff": "2026-10-20T17:00:00+03:00",
-        "match": "Estrela U23 - Farense U23",
-        "selection": "Over 0.5",
-        "odds": 1.06,
-        "probability": 0.9274271261357456,
-        "risk_probability": 0.07257287386425437,
-        "band": "Grade A · 1.06+ accuracy · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "Role sample 12/12 · ESS 11.2/11.4",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
-      },
-      {
-        "id": "lab-o05-106_plus-2026-10-20-1635693",
-        "date": "2026-10-20",
-        "model_version": "o05-api-first-multiseason-v0.3-accuracy-106",
-        "kickoff": "2026-10-20T22:00:00+03:00",
-        "match": "Manchester City - AEK Athens FC",
-        "selection": "Over 0.5",
-        "odds": 1.02,
-        "probability": 0.9271083233272251,
-        "risk_probability": 0.07289167667277485,
-        "band": "Grade B · 1.06+ accuracy · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "Role sample 11/12 · ESS 7.8/11.5",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:06.902173+00:00"
+        "updated_at": "2026-10-20T06:14:56.982778+00:00"
       }
     ],
     "corners_challenger_over": [
@@ -15138,7 +15138,7 @@
       "metrics_scope": "full_scored_universe",
       "scored": 95,
       "qualified": 74,
-      "selected": 7,
+      "selected": 11,
       "settled_scores": 39,
       "model_brier": 0.05071669208197428,
       "market_brier": null,
