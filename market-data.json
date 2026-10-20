@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:50:38.050410+00:00",
+  "generated_at": "2026-10-20T05:53:22.079691+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -13944,6 +13944,46 @@
         "updated_at": "2026-10-20T05:41:15.845459+00:00"
       },
       {
+        "id": "lab-corners-2026-10-20-1564369",
+        "date": "2026-10-20",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Bromley - Leicester",
+        "selection": "Over 9.5",
+        "odds": 1.38,
+        "probability": 0.6774395301143776,
+        "risk_probability": 0.32256046988562237,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 11.63 · required 75.5%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/bromlei-lester/94077512/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-20-1564374",
+        "date": "2026-10-20",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Luton - Barnsley",
+        "selection": "Over 9.5",
+        "odds": 1.38,
+        "probability": 0.6766160698223198,
+        "risk_probability": 0.3233839301776802,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 11.62 · required 75.5%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/louton-barnslei/94077325/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
+      },
+      {
         "id": "lab-corners-2026-10-20-1603055",
         "date": "2026-10-20",
         "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
@@ -13951,8 +13991,8 @@
         "match": "Al-Ettifaq - Al-Ittihad FC",
         "selection": "Over 8.5",
         "odds": 1.52,
-        "probability": 0.65111712148689,
-        "risk_probability": 0.34888287851310995,
+        "probability": 0.6511171126050265,
+        "risk_probability": 0.34888288739497353,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -13961,7 +14001,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1612266",
@@ -13971,8 +14011,8 @@
         "match": "Masr - Future FC",
         "selection": "Over 7.5",
         "odds": 1.45,
-        "probability": 0.6204363986212056,
-        "risk_probability": 0.3795636013787944,
+        "probability": 0.6204364535805139,
+        "risk_probability": 0.3795635464194861,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -13981,7 +14021,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1603061",
@@ -13991,8 +14031,8 @@
         "match": "Al Taawon - Al-Qadisiyah FC",
         "selection": "Over 8.5",
         "odds": 1.5,
-        "probability": 0.6186027793170416,
-        "risk_probability": 0.38139722068295845,
+        "probability": 0.6186027839634755,
+        "risk_probability": 0.38139721603652454,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14001,7 +14041,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1641321",
@@ -14021,7 +14061,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1645343",
@@ -14041,7 +14081,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1603059",
@@ -14051,8 +14091,8 @@
         "match": "Al-Nassr - NEOM",
         "selection": "Over 8.5",
         "odds": 1.52,
-        "probability": 0.5860502135786272,
-        "risk_probability": 0.4139497864213728,
+        "probability": 0.5860502160470528,
+        "risk_probability": 0.41394978395294724,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14061,7 +14101,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1635719",
@@ -14071,8 +14111,8 @@
         "match": "Sabah FA - Borussia Dortmund",
         "selection": "Over 8.5",
         "odds": 1.45,
-        "probability": 0.5778465241582016,
-        "risk_probability": 0.4221534758417984,
+        "probability": 0.5778465115635467,
+        "risk_probability": 0.4221534884364533,
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14081,7 +14121,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1604030",
@@ -14101,7 +14141,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1640382",
@@ -14121,7 +14161,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1632222",
@@ -14141,7 +14181,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1604031",
@@ -14161,7 +14201,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1612122",
@@ -14181,7 +14221,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1632225",
@@ -14201,7 +14241,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1622800",
@@ -14221,7 +14261,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       }
     ],
     "corners_challenger_under": [
@@ -14626,6 +14666,46 @@
         "updated_at": "2026-10-20T05:41:17.506247+00:00"
       },
       {
+        "id": "lab-corners-2026-10-20-1564372",
+        "date": "2026-10-20",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Doncaster - Stockport County",
+        "selection": "Under 11.5",
+        "odds": 1.36,
+        "probability": 0.6844779995114376,
+        "risk_probability": 0.3155220004885624,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 9.84 · required 76.5%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/donkaster-stokport/94077297/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-20-1563822",
+        "date": "2026-10-20",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Northampton - Tranmere",
+        "selection": "Under 10.5",
+        "odds": 1.52,
+        "probability": 0.649100295589943,
+        "risk_probability": 0.350899704410057,
+        "band": "Grade A · LAB επιλογή",
+        "decision": "challenger_selected",
+        "selected": true,
+        "result": "pending",
+        "probability_detail": "xCorners 9.25 · required 70.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/northabton-tranmir/94098483/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
+      },
+      {
         "id": "lab-corners-2026-10-20-1612263",
         "date": "2026-10-20",
         "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
@@ -14633,8 +14713,8 @@
         "match": "Wadi Degla - National Bank of Egypt",
         "selection": "Under 10.5",
         "odds": 1.39,
-        "probability": 0.767679439952488,
-        "risk_probability": 0.232320560047512,
+        "probability": 0.7676794425414748,
+        "risk_probability": 0.2323205574585252,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14643,7 +14723,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1612264",
@@ -14653,8 +14733,8 @@
         "match": "El Geish - Pyramids FC",
         "selection": "Under 10.5",
         "odds": 1.42,
-        "probability": 0.756825471585173,
-        "risk_probability": 0.243174528414827,
+        "probability": 0.7568254608740065,
+        "risk_probability": 0.24317453912599352,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14663,7 +14743,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1497724",
@@ -14673,8 +14753,8 @@
         "match": "IFK Norrkoping - Orebro SK",
         "selection": "Under 11.5",
         "odds": 1.55,
-        "probability": 0.6816310549266013,
-        "risk_probability": 0.31836894507339875,
+        "probability": 0.6816310565373866,
+        "risk_probability": 0.31836894346261335,
         "band": "Grade B · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14683,7 +14763,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1635661",
@@ -14693,8 +14773,8 @@
         "match": "Fenerbahçe - Slavia Praha",
         "selection": "Under 11.5",
         "odds": 1.45,
-        "probability": 0.667061733185341,
-        "risk_probability": 0.332938266814659,
+        "probability": 0.6670617570631248,
+        "risk_probability": 0.33293824293687524,
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14703,7 +14783,27 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
+      },
+      {
+        "id": "lab-corners-2026-10-20-1563816",
+        "date": "2026-10-20",
+        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
+        "kickoff": "2026-10-20T21:45:00+03:00",
+        "match": "Bristol Rovers - Salford City",
+        "selection": "Under 10.5",
+        "odds": 1.52,
+        "probability": 0.6220284489452886,
+        "risk_probability": 0.37797155105471136,
+        "band": "Grade A · scored",
+        "decision": "challenger_scored",
+        "selected": false,
+        "result": "pending",
+        "probability_detail": "xCorners 9.49 · required 70.0%",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/bristol-rovers-salford-siti/94098365/",
+        "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1603054",
@@ -14713,8 +14813,8 @@
         "match": "Al Diriyah - Al Riyadh",
         "selection": "Under 11.5",
         "odds": 1.4,
-        "probability": 0.6066590146402266,
-        "risk_probability": 0.39334098535977335,
+        "probability": 0.6066585898185917,
+        "risk_probability": 0.39334141018140834,
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14723,7 +14823,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1612262",
@@ -14733,8 +14833,8 @@
         "match": "Asyut Petrol - Zamalek SC",
         "selection": "Under 10.5",
         "odds": 1.38,
-        "probability": 0.5862025368592652,
-        "risk_probability": 0.41379746314073484,
+        "probability": 0.5862029390380136,
+        "risk_probability": 0.41379706096198643,
         "band": "Grade D · scored",
         "decision": "challenger_scored",
         "selected": false,
@@ -14743,7 +14843,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1637344",
@@ -14763,7 +14863,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1637346",
@@ -14783,7 +14883,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1637348",
@@ -14803,7 +14903,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1637349",
@@ -14823,7 +14923,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1637351",
@@ -14843,7 +14943,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1604032",
@@ -14863,7 +14963,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1598713",
@@ -14883,7 +14983,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1598715",
@@ -14903,7 +15003,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1598716",
@@ -14923,7 +15023,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1598718",
@@ -14943,7 +15043,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       },
       {
         "id": "lab-corners-2026-10-20-1598719",
@@ -14963,67 +15063,7 @@
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
-      },
-      {
-        "id": "lab-corners-2026-10-20-1612109",
-        "date": "2026-10-20",
-        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
-        "kickoff": "2026-10-20T21:00:00+03:00",
-        "match": "Aldosivi Res. - Banfield Res.",
-        "selection": "Under 9.5",
-        "odds": 1.67,
-        "probability": 0.4295737394694906,
-        "risk_probability": 0.5704262605305094,
-        "band": "Grade D · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "xCorners 9.50 · required 70.0%",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
-      },
-      {
-        "id": "lab-corners-2026-10-20-1612110",
-        "date": "2026-10-20",
-        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
-        "kickoff": "2026-10-20T21:00:00+03:00",
-        "match": "Argentinos Juniors Res. - Rosario Central Res.",
-        "selection": "Under 9.5",
-        "odds": 1.67,
-        "probability": 0.4295737394694906,
-        "risk_probability": 0.5704262605305094,
-        "band": "Grade D · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "xCorners 9.50 · required 70.0%",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
-      },
-      {
-        "id": "lab-corners-2026-10-20-1612125",
-        "date": "2026-10-20",
-        "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under",
-        "kickoff": "2026-10-20T21:00:00+03:00",
-        "match": "Sarmiento Res. - Tigre Res.",
-        "selection": "Under 9.5",
-        "odds": 1.75,
-        "probability": 0.4295737394694906,
-        "risk_probability": 0.5704262605305094,
-        "band": "Grade D · scored",
-        "decision": "challenger_scored",
-        "selected": false,
-        "result": "pending",
-        "probability_detail": "xCorners 9.50 · required 70.0%",
-        "stoiximan_confirmed": false,
-        "market_url": null,
-        "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-20T05:41:21.272624+00:00"
+        "updated_at": "2026-10-20T05:53:22.079691+00:00"
       }
     ]
   },
@@ -15112,9 +15152,9 @@
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · over",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 32,
+      "scored": 34,
       "qualified": 2,
-      "selected": 4,
+      "selected": 6,
       "settled_scores": 17,
       "model_brier": 0.18995116009466462,
       "market_brier": null,
@@ -15128,9 +15168,9 @@
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · under",
       "cohort": "challenger",
       "metrics_scope": "full_scored_universe",
-      "scored": 41,
+      "scored": 44,
       "qualified": 3,
-      "selected": 4,
+      "selected": 6,
       "settled_scores": 17,
       "model_brier": 0.20829140407384336,
       "market_brier": null,
