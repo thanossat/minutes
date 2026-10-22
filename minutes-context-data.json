@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:12:56.636299+00:00",
+  "generated_at": "2026-10-22T05:06:19.951714+00:00",
   "before": {
     "label": "Market-only production",
     "description": "Τα ζωντανά W/L υπολογίζονται από το υπάρχον Minutes board."
@@ -16,8 +16,8 @@
     "eligible_wins": 33,
     "eligible_losses": 7,
     "eligible_hit_rate": 0.825,
-    "tracked_settled": 279,
-    "tracked_wins": 202,
+    "tracked_settled": 280,
+    "tracked_wins": 203,
     "tracked_losses": 77,
     "model_metrics": {
       "n": 40,

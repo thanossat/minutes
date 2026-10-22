@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:14:11.160742+00:00",
+  "generated_at": "2026-10-22T05:06:10.500150+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -6505,11 +6505,11 @@
         "selected": true,
         "rejection_reason": "Ανεξάρτητο αγωνιστικό μοντέλο · η τιμή δεν συμμετέχει στην επιλογή",
         "probability_detail": "Επιτυχία 80.7% · αποτυχία 19.3%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/varen-nagasaki-sanfretse-xirosima/94000543/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499175+00:00"
       },
       {
         "id": "production-double_chance-1555754:Home/Draw",
@@ -6529,11 +6529,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 94.4% · αποτυχία 5.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.498973+00:00"
       },
       {
         "id": "production-double_chance-1556110:Home/Draw",
@@ -6553,11 +6553,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 87.3% · αποτυχία 12.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499190+00:00"
       },
       {
         "id": "production-double_chance-1606712:Home/Draw",
@@ -6577,11 +6577,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 87.3% · αποτυχία 12.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499399+00:00"
       },
       {
         "id": "production-double_chance-1592893:Home/Draw",
@@ -6601,11 +6601,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 85.0% · αποτυχία 15.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499265+00:00"
       },
       {
         "id": "production-double_chance-1579839:Home/Draw",
@@ -6625,11 +6625,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 83.6% · αποτυχία 16.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499205+00:00"
       },
       {
         "id": "production-double_chance-1592894:Home/Draw",
@@ -6649,11 +6649,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 83.1% · αποτυχία 16.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499280+00:00"
       },
       {
         "id": "production-double_chance-1556108:Home/Draw",
@@ -6673,11 +6673,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 83.0% · αποτυχία 17.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499160+00:00"
       },
       {
         "id": "production-double_chance-1606711:Home/Draw",
@@ -6697,11 +6697,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 80.5% · αποτυχία 19.5%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499384+00:00"
       },
       {
         "id": "production-double_chance-1556104:Draw/Away",
@@ -6721,11 +6721,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Επιτυχία 80.3% · αποτυχία 19.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499101+00:00"
       },
       {
         "id": "production-double_chance-1616076:Home/Draw",
@@ -6745,11 +6745,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 80.0% · αποτυχία 20.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499504+00:00"
       },
       {
         "id": "production-double_chance-1556102:Home/Draw",
@@ -6769,11 +6769,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 78.0% · αποτυχία 22.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499069+00:00"
       },
       {
         "id": "production-double_chance-1555758:Home/Away",
@@ -6793,11 +6793,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.7% · αποτυχία 22.3%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499023+00:00"
       },
       {
         "id": "production-double_chance-1556107:Draw/Away",
@@ -6817,11 +6817,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.4% · αποτυχία 22.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499145+00:00"
       },
       {
         "id": "production-double_chance-1556106:Home/Draw",
@@ -6841,11 +6841,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.1% · αποτυχία 22.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499130+00:00"
       },
       {
         "id": "production-double_chance-1555755:Home/Away",
@@ -6865,11 +6865,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 77.0% · αποτυχία 23.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.498990+00:00"
       },
       {
         "id": "production-double_chance-1555753:Home/Away",
@@ -6889,11 +6889,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 76.7% · αποτυχία 23.3%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/gifou-sagamixara/94414138/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.498952+00:00"
       },
       {
         "id": "production-double_chance-1555760:Home/Away",
@@ -6913,11 +6913,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 76.1% · αποτυχία 23.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499038+00:00"
       },
       {
         "id": "production-double_chance-1606710:Home/Draw",
@@ -6937,11 +6937,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 75.5% · αποτυχία 24.5%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499369+00:00"
       },
       {
         "id": "production-double_chance-1556103:Home/Away",
@@ -6961,11 +6961,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Επιτυχία 74.3% · αποτυχία 25.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499085+00:00"
       }
     ],
     "draw_no_bet": [
@@ -11931,11 +11931,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Νίκη 79.7% · επιστροφή 14.7% · ήττα 5.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499667+00:00"
       },
       {
         "id": "production-draw_no_bet-1606712:Home",
@@ -11955,11 +11955,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Νίκη 66.2% · επιστροφή 21.1% · ήττα 12.7%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.500051+00:00"
       },
       {
         "id": "production-draw_no_bet-1556110:Home",
@@ -11979,11 +11979,11 @@
         "selected": false,
         "rejection_reason": "Δεν επιβεβαιώθηκαν ακριβή event, αγορά και επιλογή πριν τη σέντρα",
         "probability_detail": "Νίκη 65.2% · επιστροφή 22.2% · ήττα 12.7%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499860+00:00"
       },
       {
         "id": "production-draw_no_bet-1592893:Home",
@@ -12003,11 +12003,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 58.0% · επιστροφή 26.9% · ήττα 15.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499930+00:00"
       },
       {
         "id": "production-draw_no_bet-1579839:Home",
@@ -12027,11 +12027,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 63.1% · επιστροφή 20.5% · ήττα 16.4%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499874+00:00"
       },
       {
         "id": "production-draw_no_bet-1556108:Home",
@@ -12051,11 +12051,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 61.3% · επιστροφή 21.8% · ήττα 17.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499833+00:00"
       },
       {
         "id": "production-draw_no_bet-1592894:Home",
@@ -12075,11 +12075,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 56.3% · επιστροφή 26.8% · ήττα 16.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499944+00:00"
       },
       {
         "id": "production-draw_no_bet-1556109:Away",
@@ -12099,11 +12099,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 58.4% · επιστροφή 22.2% · ήττα 19.3%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/varen-nagasaki-sanfretse-xirosima/94000543/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499846+00:00"
       },
       {
         "id": "production-draw_no_bet-1556104:Away",
@@ -12123,11 +12123,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 57.8% · επιστροφή 22.4% · ήττα 19.7%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499779+00:00"
       },
       {
         "id": "production-draw_no_bet-1606711:Home",
@@ -12147,11 +12147,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 56.4% · επιστροφή 24.1% · ήττα 19.5%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.500037+00:00"
       },
       {
         "id": "production-draw_no_bet-1616076:Home",
@@ -12171,11 +12171,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 49.9% · επιστροφή 30.1% · ήττα 20.0%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.500150+00:00"
       },
       {
         "id": "production-draw_no_bet-1556102:Home",
@@ -12195,11 +12195,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 53.9% · επιστροφή 24.0% · ήττα 22.0%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499751+00:00"
       },
       {
         "id": "production-draw_no_bet-1556107:Away",
@@ -12219,11 +12219,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 53.1% · επιστροφή 24.3% · ήττα 22.6%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499819+00:00"
       },
       {
         "id": "production-draw_no_bet-1556106:Home",
@@ -12243,11 +12243,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 52.4% · επιστροφή 24.8% · ήττα 22.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499805+00:00"
       },
       {
         "id": "production-draw_no_bet-1555755:Away",
@@ -12267,11 +12267,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 53.0% · επιστροφή 23.0% · ήττα 24.1%",
-        "result": "pending",
+        "result": "loss",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499682+00:00"
       },
       {
         "id": "production-draw_no_bet-1606710:Home",
@@ -12291,11 +12291,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 49.0% · επιστροφή 26.5% · ήττα 24.5%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.500024+00:00"
       },
       {
         "id": "production-draw_no_bet-1555758:Home",
@@ -12315,11 +12315,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 51.3% · επιστροφή 22.3% · ήττα 26.5%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499709+00:00"
       },
       {
         "id": "production-draw_no_bet-1555760:Home",
@@ -12339,11 +12339,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 49.2% · επιστροφή 23.9% · ήττα 26.9%",
-        "result": "pending",
+        "result": "win",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499722+00:00"
       },
       {
         "id": "production-draw_no_bet-1609943:Home",
@@ -12363,11 +12363,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 46.1% · επιστροφή 27.5% · ήττα 26.4%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/zvigiezda-09-omarska/94149220/",
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.500124+00:00"
       },
       {
         "id": "production-draw_no_bet-1592892:Home",
@@ -12387,11 +12387,11 @@
         "selected": false,
         "rejection_reason": "API πιθανότητα κάτω από 80%",
         "probability_detail": "Νίκη 44.4% · επιστροφή 29.7% · ήττα 26.0%",
-        "result": "pending",
+        "result": "push",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
-        "updated_at": "2026-10-21T05:14:11.160742+00:00"
+        "updated_at": "2026-10-22T05:06:10.499916+00:00"
       }
     ],
     "minutes_challenger": [
@@ -13632,10 +13632,10 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12",
         "source": "Minutes multiseason LAB · reference Stoiximan odds",
-        "updated_at": "2026-10-21T05:05:00.039157+00:00"
+        "updated_at": "2026-10-22T05:05:30.367485+00:00"
       }
     ],
     "o05_challenger_accuracy": [
@@ -14572,12 +14572,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.7/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/foukouoka-gaba-osaka/94000517/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175443+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556106",
@@ -14592,12 +14592,12 @@
         "band": "Grade A · 1.06+ accuracy · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/fatziano-okagiama-mito-xolixok/94000542/",
         "source": "O0.5 multiseason αγωνιστικό μοντέλο · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175516+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635645",
@@ -14612,12 +14612,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 9.6/11.6",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175956+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635630",
@@ -14632,12 +14632,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 9.8/10.3",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175926+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635621",
@@ -14652,12 +14652,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/10.0",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175910+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635672",
@@ -14672,12 +14672,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 8.9/11.7",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175984+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556104",
@@ -14692,12 +14692,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.7",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175486+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635716",
@@ -14712,12 +14712,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 9.9/11.6",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.176014+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1570389",
@@ -14732,12 +14732,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.4/11.4",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175607+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635737",
@@ -14752,12 +14752,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 9.0/11.5",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.176029+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635636",
@@ -14772,12 +14772,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175941+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1555758",
@@ -14792,12 +14792,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 10.4/10.4",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175413+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556103",
@@ -14812,12 +14812,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.7",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175472+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1555753",
@@ -14832,12 +14832,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 10.2/10.1",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175344+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556108",
@@ -14852,12 +14852,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.7",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175546+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1635647",
@@ -14872,12 +14872,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.4",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175970+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556102",
@@ -14892,12 +14892,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "Role sample 12/12 · ESS 11.6/11.6",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175457+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1555754",
@@ -14912,12 +14912,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 10.3/10.0",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175365+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1604034",
@@ -14932,12 +14932,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.3/11.4",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175696+00:00"
       },
       {
         "id": "lab-o05-106_plus-2026-10-21-1556105",
@@ -14952,12 +14952,12 @@
         "band": "Grade A · 1.06+ accuracy · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "Role sample 12/12 · ESS 11.7/11.7",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "O0.5 multiseason LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:05:54.318936+00:00"
+        "updated_at": "2026-10-22T05:05:42.175501+00:00"
       }
     ],
     "corners_challenger_over": [
@@ -15654,12 +15654,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.90 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/varen-nagasaki-sanfretse-xirosima/94000543/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:51.149278+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1606708",
@@ -15694,12 +15694,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.91 · required 72.4%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:49.438807+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1606713",
@@ -16636,12 +16636,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.63 · required 78.2%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/reding-leiton-oried/94128614/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:51.933039+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556106",
@@ -16656,12 +16656,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.75 · required 74.9%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/fatziano-okagiama-mito-xolixok/94000542/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:49.917727+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1606714",
@@ -16696,12 +16696,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.59 · required 75.5%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:50.316310+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556108",
@@ -16716,12 +16716,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.56 · required 78.8%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:50.745767+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556101",
@@ -16736,12 +16736,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.62 · required 72.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/foukouoka-gaba-osaka/94000517/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:47.988546+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556104",
@@ -16756,12 +16756,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.72 · required 78.8%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:49.053905+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556102",
@@ -16776,12 +16776,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 8.98 · required 70.0%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:48.329134+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1556110",
@@ -16796,12 +16796,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.10 · required 74.4%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:51.535873+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1555753",
@@ -16936,12 +16936,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.62 · required 71.0%",
         "stoiximan_confirmed": false,
         "market_url": null,
         "source": "Corners Negative Binomial LAB · Betano reference, όχι Stoiximan-confirmed",
-        "updated_at": "2026-10-21T05:06:26.645072+00:00"
+        "updated_at": "2026-10-22T05:05:48.670704+00:00"
       },
       {
         "id": "lab-corners-2026-10-21-1555751",
@@ -17054,23 +17054,23 @@
       "model_version": "dc-dnb-multinomial-v1.0-production",
       "scored": 368,
       "selected": 16,
-      "settled_scores": 244,
-      "model_brier": 0.1601237877036886,
-      "market_brier": 0.1680995978908152,
-      "model_logloss": 0.49628284273203516,
-      "market_logloss": 0.5212870704099085,
-      "settled_picks": 15,
-      "pick_roi": -0.017999999999999985
+      "settled_scores": 271,
+      "model_brier": 0.156676000039785,
+      "market_brier": 0.1629979275353308,
+      "model_logloss": 0.488233461284562,
+      "market_logloss": 0.5091908249419067,
+      "settled_picks": 16,
+      "pick_roi": -0.07937499999999999
     },
     "draw_no_bet": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
       "scored": 368,
       "selected": 12,
-      "settled_scores": 175,
-      "model_brier": 0.18801651261135582,
-      "market_brier": 0.1886607753238453,
-      "model_logloss": 0.5568210022740467,
-      "market_logloss": 0.5642548306711,
+      "settled_scores": 193,
+      "model_brier": 0.1870272093992026,
+      "market_brier": 0.18842488886653552,
+      "model_logloss": 0.5544556336107377,
+      "market_logloss": 0.5641065524524269,
       "settled_picks": 12,
       "pick_roi": 0.00999999999999999
     },
@@ -17081,14 +17081,14 @@
       "scored": 98,
       "qualified": 49,
       "selected": 49,
-      "settled_scores": 97,
-      "model_brier": 0.1994997915588969,
+      "settled_scores": 98,
+      "model_brier": 0.19849737870585712,
       "market_brier": null,
-      "model_logloss": 0.5902736524812097,
+      "model_logloss": 0.5881590926301405,
       "market_logloss": null,
-      "calibration_gap": -0.0012534123711340772,
-      "settled_picks": 48,
-      "pick_roi": -0.027291666666666645
+      "calibration_gap": -0.0044877551020409134,
+      "settled_picks": 49,
+      "pick_roi": -0.018163265306122427
     },
     "o05_challenger_accuracy": {
       "model_version": "o05-api-first-multiseason-v0.3-accuracy-106 · 1.06+ accuracy",
@@ -17097,14 +17097,14 @@
       "scored": 150,
       "qualified": 116,
       "selected": 13,
-      "settled_scores": 95,
-      "model_brier": 0.05112665593891563,
+      "settled_scores": 149,
+      "model_brier": 0.04666066309455353,
       "market_brier": null,
-      "model_logloss": 0.21303335046134977,
+      "model_logloss": 0.20039783714442863,
       "market_logloss": null,
-      "calibration_gap": -0.03537911441982167,
-      "settled_picks": 11,
-      "pick_roi": -0.12272727272727267
+      "calibration_gap": -0.039974761764911104,
+      "settled_picks": 13,
+      "pick_roi": -0.09230769230769226
     },
     "corners_challenger_over": {
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · over",
@@ -17113,14 +17113,14 @@
       "scored": 43,
       "qualified": 2,
       "selected": 7,
-      "settled_scores": 24,
-      "model_brier": 0.1968996341534965,
+      "settled_scores": 26,
+      "model_brier": 0.20636645733731396,
       "market_brier": null,
-      "model_logloss": 0.583228704761288,
+      "model_logloss": 0.6034174434483119,
       "market_logloss": null,
-      "calibration_gap": -0.08628224396221962,
-      "settled_picks": 6,
-      "pick_roi": -0.04333333333333337
+      "calibration_gap": -0.06828050391828311,
+      "settled_picks": 7,
+      "pick_roi": 0.03428571428571425
     },
     "corners_challenger_under": {
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · under",
@@ -17129,14 +17129,14 @@
       "scored": 75,
       "qualified": 3,
       "selected": 8,
-      "settled_scores": 26,
-      "model_brier": 0.20652351689346002,
+      "settled_scores": 35,
+      "model_brier": 0.18860769815291015,
       "market_brier": null,
-      "model_logloss": 0.6056818241992235,
+      "model_logloss": 0.5670491815120436,
       "market_logloss": null,
-      "calibration_gap": -0.05734401708710912,
-      "settled_picks": 6,
-      "pick_roi": -0.32166666666666666
+      "calibration_gap": -0.09491708210337924,
+      "settled_picks": 8,
+      "pick_roi": -0.15125
     }
   }
 }
