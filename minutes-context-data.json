@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-24T05:28:28.293930+00:00",
+  "generated_at": "2026-10-25T06:45:54.202317+00:00",
   "before": {
     "label": "Market-only production",
     "description": "Τα ζωντανά W/L υπολογίζονται από το υπάρχον Minutes board."
   },
   "after": {
     "label": "Paid API scorer v1",
-    "tracked": 424,
-    "context_ready": 193,
-    "collecting": 325,
-    "average_coverage": 0.8954073863636364,
-    "production_count": 62,
+    "tracked": 458,
+    "context_ready": 213,
+    "collecting": 343,
+    "average_coverage": 0.8990461942257219,
+    "production_count": 75,
     "production_start_date": "2026-10-10",
-    "eligible_settled": 42,
-    "eligible_wins": 35,
-    "eligible_losses": 7,
-    "eligible_hit_rate": 0.8333333333333334,
-    "tracked_settled": 291,
-    "tracked_wins": 212,
-    "tracked_losses": 79,
+    "eligible_settled": 61,
+    "eligible_wins": 49,
+    "eligible_losses": 12,
+    "eligible_hit_rate": 0.8032786885245902,
+    "tracked_settled": 349,
+    "tracked_wins": 248,
+    "tracked_losses": 101,
     "model_metrics": {
-      "n": 42,
-      "brier": 0.15272947833752382,
-      "logloss": 0.4888774594492797
+      "n": 61,
+      "brier": 0.1687716200681967,
+      "logloss": 0.524112262766379
     },
     "market_metrics": {
-      "n": 42,
-      "brier": 0.15457377982797618,
-      "logloss": 0.49286065845102556
+      "n": 61,
+      "brier": 0.17122297316959018,
+      "logloss": 0.5289878150272229
     },
     "status": "live",
     "production_keys": [
@@ -92,7 +92,20 @@
       "2026-10-24:94268872",
       "2026-10-24:94304607",
       "2026-10-24:94360716",
-      "2026-10-24:94360717"
+      "2026-10-24:94360717",
+      "2026-10-25:90124353",
+      "2026-10-25:90124355",
+      "2026-10-25:92039624",
+      "2026-10-25:92039627",
+      "2026-10-25:92039631",
+      "2026-10-25:94008560",
+      "2026-10-25:94008575",
+      "2026-10-25:94097004",
+      "2026-10-25:94097066",
+      "2026-10-25:94097233",
+      "2026-10-25:94360713",
+      "2026-10-25:94360714",
+      "2026-10-25:94360718"
     ]
   },
   "rules": {
