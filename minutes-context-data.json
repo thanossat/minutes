@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-04T06:09:33.833706+00:00",
+  "generated_at": "2026-11-05T06:09:39.006086+00:00",
   "before": {
     "label": "Market-only production",
     "description": "Τα ζωντανά W/L υπολογίζονται από το υπάρχον Minutes board."
   },
   "after": {
     "label": "Paid API scorer v1",
-    "tracked": 609,
-    "context_ready": 338,
-    "collecting": 459,
-    "average_coverage": 0.922302119460501,
-    "production_count": 140,
+    "tracked": 610,
+    "context_ready": 339,
+    "collecting": 460,
+    "average_coverage": 0.9220269230769231,
+    "production_count": 141,
     "production_start_date": "2026-10-10",
-    "eligible_settled": 138,
-    "eligible_wins": 101,
+    "eligible_settled": 139,
+    "eligible_wins": 102,
     "eligible_losses": 37,
-    "eligible_hit_rate": 0.7318840579710145,
-    "tracked_settled": 515,
-    "tracked_wins": 359,
+    "eligible_hit_rate": 0.7338129496402878,
+    "tracked_settled": 516,
+    "tracked_wins": 360,
     "tracked_losses": 156,
     "model_metrics": {
-      "n": 138,
-      "brier": 0.1993315237283913,
-      "logloss": 0.5892056163613822
+      "n": 139,
+      "brier": 0.19830831983797842,
+      "logloss": 0.586931339884511
     },
     "market_metrics": {
-      "n": 138,
-      "brier": 0.19782299818130433,
-      "logloss": 0.5850550947646961
+      "n": 139,
+      "brier": 0.19714079002820142,
+      "logloss": 0.5836304614495086
     },
     "status": "live",
     "production_keys": [
@@ -170,7 +170,8 @@
       "2026-11-03:94696761",
       "2026-11-03:94792022",
       "2026-11-03:94810178",
-      "2026-11-04:94841796"
+      "2026-11-04:94841796",
+      "2026-11-05:90893613"
     ]
   },
   "rules": {
