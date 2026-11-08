@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:21:32.047776+00:00",
+  "generated_at": "2026-11-08T06:02:58.071895+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -15078,6 +15078,30 @@
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-11-07T06:21:32.047776+00:00"
+      },
+      {
+        "id": "production-double_chance-1570008:Home/Draw",
+        "date": "2026-11-08",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-11-08T17:30:00+00:00",
+        "match": "Sporting Gijon - Valladolid",
+        "selection": "Home/Draw",
+        "odds": 1.44,
+        "probability": 0.7918876370848678,
+        "market_probability": null,
+        "break_even_probability": 0.6944444444444444,
+        "risk_probability": 0.20811236291513224,
+        "edge": 0.09744319264042334,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Επιτυχία 79.2% · αποτυχία 20.8%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/sporting-xixon-vagiadolid/90891347/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-11-08T06:02:58.071895+00:00"
       }
     ],
     "draw_no_bet": [
@@ -26936,6 +26960,30 @@
         "market_url": null,
         "source": "Ανεξάρτητο API-Football μοντέλο · αγορά Betano API · όχι επιβεβαιωμένο στη Stoiximan",
         "updated_at": "2026-11-07T06:21:32.047776+00:00"
+      },
+      {
+        "id": "production-draw_no_bet-1570008:Home",
+        "date": "2026-11-08",
+        "model_version": "dc-dnb-multinomial-v1.0-production",
+        "kickoff": "2026-11-08T17:30:00+00:00",
+        "match": "Sporting Gijon - Valladolid",
+        "selection": "DNB · Σπόρτινγκ Χιχόν",
+        "odds": 1.75,
+        "probability": 0.7316212732415065,
+        "market_probability": 0.5358090185676393,
+        "break_even_probability": 0.5714285714285714,
+        "risk_probability": 0.2683787267584935,
+        "edge": 0.1601927018129351,
+        "band": "Grade A · Κάτω από όριο",
+        "decision": "not_selected",
+        "selected": false,
+        "rejection_reason": "API πιθανότητα κάτω από 80%",
+        "probability_detail": "Νίκη 56.7% · επιστροφή 22.5% · ήττα 20.8%",
+        "result": "pending",
+        "stoiximan_confirmed": true,
+        "market_url": "https://www.stoiximan.gr/apodoseis/sporting-xixon-vagiadolid/90891347/",
+        "source": "Ανεξάρτητο API-Football μοντέλο · αγορά και απόδοση Stoiximan επιβεβαιωμένη",
+        "updated_at": "2026-11-08T06:02:58.071895+00:00"
       }
     ],
     "minutes_challenger": [
@@ -53730,7 +53778,7 @@
     },
     "double_chance": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
-      "scored": 1258,
+      "scored": 1260,
       "selected": 45,
       "settled_scores": 709,
       "model_brier": 0.1639905737082953,
@@ -53742,7 +53790,7 @@
     },
     "draw_no_bet": {
       "model_version": "dc-dnb-multinomial-v1.0-production",
-      "scored": 1258,
+      "scored": 1260,
       "selected": 37,
       "settled_scores": 518,
       "model_brier": 0.19870160736066778,
