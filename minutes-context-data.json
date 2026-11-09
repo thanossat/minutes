@@ -6,7 +6,7 @@
   },
   "after": {
     "label": "Paid API scorer v1",
-    "tracked": 689,
+    "tracked": 694,
     "context_ready": 383,
     "collecting": 499,
     "average_coverage": 0.9262382300884956,
