@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:02:58.071895+00:00",
+  "generated_at": "2026-11-13T06:08:12.051346+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -53082,12 +53082,12 @@
         "band": "Grade D · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.14 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/nea-salamina-omonoia-aradippou/95081819/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-06T06:03:53.471654+00:00"
+        "updated_at": "2026-11-13T06:08:12.051346+00:00"
       },
       {
         "id": "lab-corners-2026-11-06-1565302",
@@ -53855,12 +53855,12 @@
       "scored": 426,
       "qualified": 20,
       "selected": 42,
-      "settled_scores": 208,
-      "model_brier": 0.22563555495074927,
+      "settled_scores": 209,
+      "model_brier": 0.22682313016803363,
       "market_brier": null,
-      "model_logloss": 0.6444978291390432,
+      "model_logloss": 0.6469925999986255,
       "market_logloss": null,
-      "calibration_gap": 0.008908955522169082,
+      "calibration_gap": 0.01215991497519131,
       "settled_picks": 39,
       "pick_roi": -0.06358974358974358
     }
