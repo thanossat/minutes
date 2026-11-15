@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:08:12.051346+00:00",
+  "generated_at": "2026-11-15T06:13:22.798492+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -45840,12 +45840,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.22 · required 79.3%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/odense-viborg/93949827/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:24:54.910965+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1552217",
@@ -45860,12 +45860,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.85 · required 76.5%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/fortouna-sitard-telstar/93221904/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:28.421114+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1557809",
@@ -45940,12 +45940,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 10.68 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/kaliari-frozinone/92997328/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:08.883320+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1575220",
@@ -45980,12 +45980,12 @@
         "band": "Grade B · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 9.60 · required 77.6%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/slavia-sofias-tserno-more-varna/94829630/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:26.895763+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1576523",
@@ -46040,12 +46040,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 11.14 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/aoustria-loustenaou-gratser-ak/94680476/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-15T06:13:22.437042+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1551132",
@@ -46060,12 +46060,12 @@
         "band": "Grade B · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.10 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/botef-vratsa-lokomotiv-plovdiv/94829512/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:26.493968+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1585825",
@@ -53362,12 +53362,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.90 · required 77.1%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/korona-kielse-radomiak/93896485/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:33.080947+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1550194",
@@ -53382,12 +53382,12 @@
         "band": "Grade A · LAB επιλογή",
         "decision": "challenger_selected",
         "selected": true,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.26 · required 75.5%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/parma-bolonia/92997330/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:26.096971+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1557813",
@@ -53442,12 +53442,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 6.52 · required 71.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xapoel-tikva-xapoel-ramat-gan/95012066/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-15T06:13:19.812400+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1497746",
@@ -53462,12 +53462,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.59 · required 71.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/xelsingborg-falkenberg/95014894/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:24:27.546183+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1584463",
@@ -53502,12 +53502,12 @@
         "band": "Grade B · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 7.74 · required 73.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/zemoun-imt-novi-beograd/95016184/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-14T05:25:34.487045+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1570004",
@@ -53562,12 +53562,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 9.98 · required 72.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/slovan-liberets-boemians-1905/93222601/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-15T06:13:22.105803+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1563252",
@@ -53582,12 +53582,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 10.95 · required 72.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/blakbern-gouest-xam/94982990/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-15T06:13:22.798492+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1584065",
@@ -53839,14 +53839,14 @@
       "scored": 340,
       "qualified": 8,
       "selected": 38,
-      "settled_scores": 186,
-      "model_brier": 0.23316563876397484,
+      "settled_scores": 192,
+      "model_brier": 0.23259692429456758,
       "market_brier": null,
-      "model_logloss": 0.6601667540955513,
+      "model_logloss": 0.6589155381627453,
       "market_logloss": null,
-      "calibration_gap": 0.025155482017770403,
-      "settled_picks": 33,
-      "pick_roi": -0.0675757575757576
+      "calibration_gap": 0.024845416388845742,
+      "settled_picks": 35,
+      "pick_roi": -0.08342857142857142
     },
     "corners_challenger_under": {
       "model_version": "corners-negative-binomial-v0.4-accuracy-2over-2under · under",
@@ -53855,14 +53855,14 @@
       "scored": 426,
       "qualified": 20,
       "selected": 42,
-      "settled_scores": 209,
-      "model_brier": 0.22682313016803363,
+      "settled_scores": 216,
+      "model_brier": 0.23674422309280765,
       "market_brier": null,
-      "model_logloss": 0.6469925999986255,
+      "model_logloss": 0.6689066055873444,
       "market_logloss": null,
-      "calibration_gap": 0.01215991497519131,
-      "settled_picks": 39,
-      "pick_roi": -0.06358974358974358
+      "calibration_gap": 0.03536304855535244,
+      "settled_picks": 41,
+      "pick_roi": -0.10926829268292682
     }
   }
 }
