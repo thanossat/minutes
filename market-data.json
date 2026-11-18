@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:09:55.277975+00:00",
+  "generated_at": "2026-11-18T06:07:26.341094+00:00",
   "timezone": "Europe/Athens",
   "markets": {
     "over_1_5": [
@@ -46020,12 +46020,12 @@
         "band": "Grade A · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "win",
         "probability_detail": "xCorners 10.30 · required 71.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/al-garafa-al-douxail-sc/95014954/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-18T06:07:25.371026+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1561960",
@@ -53542,12 +53542,12 @@
         "band": "Grade B · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 7.99 · required 70.0%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/al-dafra-al-itixad-kalba/93442276/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-18T06:07:26.341094+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1560068",
@@ -53722,12 +53722,12 @@
         "band": "Grade C · scored",
         "decision": "challenger_scored",
         "selected": false,
-        "result": "pending",
+        "result": "loss",
         "probability_detail": "xCorners 8.73 · required 74.4%",
         "stoiximan_confirmed": true,
         "market_url": "https://www.stoiximan.gr/apodoseis/giouve-stabia-ss-arezo/92997575/",
         "source": "Corners Negative Binomial LAB · ακριβής αγορά Stoiximan",
-        "updated_at": "2026-11-07T06:09:16.565748+00:00"
+        "updated_at": "2026-11-18T06:07:25.674760+00:00"
       },
       {
         "id": "lab-corners-2026-11-07-1551372",
@@ -53839,12 +53839,12 @@
       "scored": 340,
       "qualified": 8,
       "selected": 38,
-      "settled_scores": 197,
-      "model_brier": 0.23356838266314753,
+      "settled_scores": 198,
+      "model_brier": 0.2330196354104539,
       "market_brier": null,
-      "model_logloss": 0.6609889474951087,
+      "model_logloss": 0.6598530529280112,
       "market_logloss": null,
-      "calibration_gap": 0.025830080820350987,
+      "calibration_gap": 0.0239145997038952,
       "settled_picks": 35,
       "pick_roi": -0.08342857142857142
     },
@@ -53855,12 +53855,12 @@
       "scored": 426,
       "qualified": 20,
       "selected": 42,
-      "settled_scores": 220,
-      "model_brier": 0.24073776312222148,
+      "settled_scores": 222,
+      "model_brier": 0.24236804820851193,
       "market_brier": null,
-      "model_logloss": 0.6772446982371683,
+      "model_logloss": 0.6805926114950536,
       "market_logloss": null,
-      "calibration_gap": 0.04699393684036335,
+      "calibration_gap": 0.0524179075949287,
       "settled_picks": 41,
       "pick_roi": -0.10926829268292682
     }
